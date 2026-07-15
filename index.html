@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Karteikasten – Spanisch</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: #F4F1EA;
+    color: #2B2A28;
+    padding: 24px 16px 60px;
+  }
+  .wrap { max-width: 640px; margin: 0 auto; }
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 26px;
+    font-weight: 400;
+    margin: 0 0 4px;
+  }
+  .sub { color: #6B6960; font-size: 14px; margin-bottom: 24px; }
+
+  .boxes { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-bottom: 28px; }
+  .box-tab {
+    background: #fff;
+    border: 1px solid #DEDACD;
+    border-radius: 8px;
+    padding: 10px 4px;
+    text-align: center;
+    cursor: default;
+  }
+  .box-tab .n { font-size: 20px; font-weight: 600; }
+  .box-tab .l { font-size: 11px; color: #6B6960; margin-top: 2px; }
+  .box-tab.due { border-color: #B5603F; background: #FBEFE9; }
+  .box-tab.due .n { color: #B5603F; }
+
+  .tabs { display: flex; gap: 4px; margin-bottom: 20px; border-bottom: 1px solid #DEDACD; }
+  .tab-btn {
+    background: none; border: none; padding: 10px 16px; font-size: 14px;
+    color: #6B6960; cursor: pointer; border-bottom: 2px solid transparent;
+  }
+  .tab-btn.active { color: #2B2A28; border-bottom-color: #B5603F; font-weight: 600; }
+
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  .card {
+    background: #fff;
+    border: 1px solid #DEDACD;
+    border-radius: 12px;
+    padding: 32px 24px;
+    min-height: 140px;
+    display: flex; align-items: center; justify-content: center;
+    text-align: center;
+    font-size: 22px;
+    cursor: pointer;
+    margin-bottom: 16px;
+    position: relative;
+  }
+  .card .box-badge {
+    position: absolute; top: 10px; left: 14px;
+    font-size: 11px; color: #6B6960;
+  }
+  .card .hint { position: absolute; bottom: 10px; font-size: 12px; color: #A6A296; }
+  .flip-actions { display: flex; gap: 10px; }
+  .flip-actions button {
+    flex: 1; padding: 12px; border-radius: 8px; border: none;
+    font-size: 15px; cursor: pointer; font-weight: 600;
+  }
+  .btn-wrong { background: #F3DCD3; color: #99401F; }
+  .btn-right { background: #DCE9DC; color: #2E5E32; }
+  .btn-wrong:hover { background: #EFCABC; }
+  .btn-right:hover { background: #C9DFC9; }
+
+  .empty { text-align: center; color: #6B6960; padding: 40px 20px; }
+
+  form { display: flex; flex-direction: column; gap: 10px; }
+  label { font-size: 13px; color: #6B6960; }
+  input, textarea {
+    font-size: 15px; padding: 10px; border-radius: 8px;
+    border: 1px solid #DEDACD; font-family: inherit; width: 100%;
+  }
+  .add-btn {
+    background: #2B2A28; color: #fff; border: none; border-radius: 8px;
+    padding: 12px; font-size: 15px; cursor: pointer; margin-top: 4px;
+  }
+  .add-btn:hover { background: #45433F; }
+  .secondary-btn {
+    background: #fff; color: #2B2A28; border: 1px solid #DEDACD; border-radius: 8px;
+    padding: 12px; font-size: 15px; cursor: pointer; margin-top: 8px;
+  }
+  .secondary-btn:hover { background: #F7F5EF; }
+  .backup-actions { display: flex; flex-direction: column; gap: 8px; }
+  .msg { font-size: 13px; color: #2E5E32; min-height: 18px; }
+
+  .list-row {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 10px 4px; border-bottom: 1px solid #EAE7DD; font-size: 14px;
+  }
+  .list-row .word { font-weight: 600; }
+  .list-row .meta { color: #6B6960; font-size: 12px; }
+  .del { background: none; border: none; color: #B5603F; cursor: pointer; font-size: 13px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Karteikasten</h1>
+  <div class="sub">Spanisch-Vokabeln nach dem Leitner-System</div>
+
+  <div class="boxes" id="boxSummary"></div>
+
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="learn">Lernen</button>
+    <button class="tab-btn" data-tab="add">Hinzufügen</button>
+    <button class="tab-btn" data-tab="list">Übersicht</button>
+  </div>
+
+  <div class="panel active" id="panel-learn">
+    <div id="learnArea"></div>
+  </div>
+
+  <div class="panel" id="panel-add">
+    <form id="addForm">
+      <label>Spanisch</label>
+      <input type="text" id="frontInput" placeholder="p. ej. quedar" required>
+      <label>Deutsch</label>
+      <input type="text" id="backInput" placeholder="z. B. sich verabreden / übrig bleiben" required>
+      <button type="submit" class="add-btn">Karte hinzufügen</button>
+      <div class="msg" id="addMsg"></div>
+    </form>
+
+    <div style="margin-top:28px; padding-top:20px; border-top:1px solid #DEDACD;">
+      <label>Import aus Excel</label>
+      <div style="font-size:12px; color:#6B6960; margin-bottom:8px;">
+        Zwei Spalten (Spanisch, Deutsch) in Excel markieren, kopieren und hier einfügen. Eine Vokabel pro Zeile.
+      </div>
+      <textarea id="importArea" rows="5" placeholder="quedar	sich verabreden / übrig bleiben
+tierno	zart / liebevoll"></textarea>
+      <button type="button" class="add-btn" id="importBtn" style="margin-top:8px;">Importieren</button>
+      <div class="msg" id="importMsg"></div>
+    </div>
+
+    <div style="margin-top:28px; padding-top:20px; border-top:1px solid #DEDACD;">
+      <label>Backup für iCloud</label>
+      <div style="font-size:12px; color:#6B6960; margin-bottom:8px;">
+        Speichert alle Karten inklusive Fach und Fälligkeitsdatum als Datei. Auf dem anderen Gerät diese Datei wieder laden.
+      </div>
+      <div class="backup-actions">
+        <button type="button" class="secondary-btn" id="exportBtn">Backup-Datei speichern</button>
+        <input type="file" id="backupInput" accept="application/json,.json">
+      </div>
+      <div class="msg" id="backupMsg"></div>
+    </div>
+  </div>
+
+  <div class="panel" id="panel-list">
+    <div id="listArea"></div>
+  </div>
+</div>
+
+<script>
+const INTERVALS = [0, 2, 4, 7, 14]; // Tage bis zur nächsten Fälligkeit je Fach (Index 0 = Fach 1)
+const STORAGE_KEY = 'leitner-cards';
+let cards = [];
+let currentCard = null;
+let flipped = false;
+
+async function loadCards() {
+  const localData = localStorage.getItem(STORAGE_KEY);
+  if (localData) {
+    try {
+      cards = JSON.parse(localData);
+    } catch (e) {
+      cards = [];
+    }
+    render();
+    return;
+  }
+
+  try {
+    if (!window.storage) throw new Error('Claude storage not available');
+    const res = await window.storage.get(STORAGE_KEY, false);
+    cards = res && res.value ? JSON.parse(res.value) : [];
+    if (cards.length > 0) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(cards));
+    }
+  } catch (e) {
+    cards = [];
+  }
+  render();
+}
+
+async function saveCards() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(cards));
+
+  try {
+    if (window.storage) {
+      await window.storage.set(STORAGE_KEY, JSON.stringify(cards), false);
+    }
+  } catch (e) {
+    console.info('Claude-Speicher nicht verfügbar, lokal im Browser gespeichert.');
+  }
+}
+
+function todayStr() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function addDays(dateStr, days) {
+  const d = new Date(dateStr);
+  d.setDate(d.getDate() + days);
+  return d.toISOString().slice(0, 10);
+}
+
+function dueCards() {
+  const t = todayStr();
+  return cards.filter(c => c.due <= t);
+}
+
+function pickCard() {
+  const due = dueCards();
+  if (due.length === 0) return null;
+  return due[Math.floor(Math.random() * due.length)];
+}
+
+function renderBoxSummary() {
+  const el = document.getElementById('boxSummary');
+  const t = todayStr();
+  let html = '';
+  for (let i = 1; i <= 5; i++) {
+    const inBox = cards.filter(c => c.box === i);
+    const due = inBox.filter(c => c.due <= t).length;
+    html += `<div class="box-tab ${due > 0 ? 'due' : ''}">
+      <div class="n">${inBox.length}</div>
+      <div class="l">Fach ${i}${due > 0 ? ' · ' + due + ' fällig' : ''}</div>
+    </div>`;
+  }
+  el.innerHTML = html;
+}
+
+function renderLearn() {
+  const area = document.getElementById('learnArea');
+  const due = dueCards();
+  if (cards.length === 0) {
+    area.innerHTML = '<div class="empty">Noch keine Karten. Füge welche unter "Hinzufügen" hinzu.</div>';
+    currentCard = null;
+    return;
+  }
+  if (due.length === 0) {
+    area.innerHTML = '<div class="empty">Für heute ist nichts fällig. Komm später wieder.</div>';
+    currentCard = null;
+    return;
+  }
+  if (!currentCard || !due.find(c => c.id === currentCard.id)) {
+    currentCard = pickCard();
+    flipped = false;
+  }
+  const c = currentCard;
+  area.innerHTML = `
+    <div class="card" id="flipCard">
+      <span class="box-badge">Fach ${c.box}</span>
+      <span>${flipped ? c.back : c.front}</span>
+      <span class="hint">${flipped ? '' : 'Zum Umdrehen tippen'}</span>
+    </div>
+    ${flipped ? `
+      <div class="flip-actions">
+        <button class="btn-wrong" id="btnWrong">Wusste ich nicht</button>
+        <button class="btn-right" id="btnRight">Wusste ich</button>
+      </div>` : ''}
+  `;
+  document.getElementById('flipCard').onclick = () => {
+    if (!flipped) { flipped = true; renderLearn(); }
+  };
+  if (flipped) {
+    document.getElementById('btnWrong').onclick = () => answer(false);
+    document.getElementById('btnRight').onclick = () => answer(true);
+  }
+}
+
+function answer(correct) {
+  const c = cards.find(x => x.id === currentCard.id);
+  if (correct) {
+    c.box = Math.min(5, c.box + 1);
+  } else {
+    c.box = 1;
+  }
+  c.due = addDays(todayStr(), INTERVALS[c.box - 1]);
+  saveCards();
+  currentCard = null;
+  flipped = false;
+  render();
+}
+
+function renderList() {
+  const area = document.getElementById('listArea');
+  if (cards.length === 0) {
+    area.innerHTML = '<div class="empty">Noch keine Karten vorhanden.</div>';
+    return;
+  }
+  const sorted = [...cards].sort((a, b) => a.box - b.box || a.front.localeCompare(b.front));
+  area.innerHTML = sorted.map(c => `
+    <div class="list-row">
+      <div>
+        <div class="word">${escapeHtml(c.front)} → ${escapeHtml(c.back)}</div>
+        <div class="meta">Fach ${c.box} · fällig ${c.due}</div>
+      </div>
+      <button class="del" data-id="${c.id}">Löschen</button>
+    </div>
+  `).join('');
+  area.querySelectorAll('.del').forEach(btn => {
+    btn.onclick = () => {
+      cards = cards.filter(c => c.id !== btn.dataset.id);
+      saveCards();
+      render();
+    };
+  });
+}
+
+function escapeHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function render() {
+  renderBoxSummary();
+  renderLearn();
+  renderList();
+}
+
+function normalizeImportedCards(importedCards) {
+  if (!Array.isArray(importedCards)) return null;
+
+  return importedCards
+    .map(c => ({
+      id: String(c.id || Date.now().toString(36) + Math.random().toString(36).slice(2, 6)),
+      front: String(c.front || '').trim(),
+      back: String(c.back || '').trim(),
+      box: Math.min(5, Math.max(1, Number(c.box) || 1)),
+      due: /^\d{4}-\d{2}-\d{2}$/.test(String(c.due || '')) ? String(c.due) : todayStr()
+    }))
+    .filter(c => c.front && c.back);
+}
+
+function downloadBackup() {
+  const data = {
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    cards
+  };
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'karteikasten-backup.json';
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
+  document.getElementById('backupMsg').textContent = 'Backup-Datei erstellt.';
+}
+
+async function importBackupFile(file) {
+  if (!file) return;
+
+  try {
+    const text = await file.text();
+    const data = JSON.parse(text);
+    const importedCards = normalizeImportedCards(Array.isArray(data) ? data : data.cards);
+    if (!importedCards) throw new Error('Invalid backup');
+
+    cards = importedCards;
+    currentCard = null;
+    flipped = false;
+    await saveCards();
+    render();
+    document.getElementById('backupMsg').textContent =
+      importedCards.length + ' Karte(n) aus Backup geladen.';
+  } catch (e) {
+    document.getElementById('backupMsg').textContent = 'Backup konnte nicht geladen werden.';
+  }
+}
+
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.onclick = () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('panel-' + btn.dataset.tab).classList.add('active');
+  };
+});
+
+document.getElementById('addForm').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const front = document.getElementById('frontInput').value.trim();
+  const back = document.getElementById('backInput').value.trim();
+  if (!front || !back) return;
+  cards.push({
+    id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
+    front, back, box: 1, due: todayStr()
+  });
+  await saveCards();
+  document.getElementById('frontInput').value = '';
+  document.getElementById('backInput').value = '';
+  document.getElementById('addMsg').textContent = 'Karte hinzugefügt.';
+  setTimeout(() => document.getElementById('addMsg').textContent = '', 1500);
+  document.getElementById('frontInput').focus();
+  render();
+});
+
+document.getElementById('importBtn').addEventListener('click', async () => {
+  const raw = document.getElementById('importArea').value;
+  const lines = raw.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+  let added = 0, skipped = 0;
+  lines.forEach(line => {
+    let parts = line.split('\t');
+    if (parts.length < 2) parts = line.split(/;|,(?=\s*[A-Za-zÀ-ÿ])/);
+    if (parts.length < 2) { skipped++; return; }
+    const front = parts[0].trim();
+    const back = parts.slice(1).join(' ').trim();
+    if (!front || !back) { skipped++; return; }
+    cards.push({
+      id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
+      front, back, box: 1, due: todayStr()
+    });
+    added++;
+  });
+  await saveCards();
+  document.getElementById('importArea').value = '';
+  document.getElementById('importMsg').textContent =
+    added + ' Karte(n) importiert' + (skipped > 0 ? ', ' + skipped + ' Zeile(n) übersprungen.' : '.');
+  render();
+});
+
+document.getElementById('exportBtn').addEventListener('click', downloadBackup);
+
+document.getElementById('backupInput').addEventListener('change', async (e) => {
+  await importBackupFile(e.target.files[0]);
+  e.target.value = '';
+});
+
+loadCards();
+</script>
+</body>
+</html>
