@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T12:57:11.372Z",
+  "updatedAt": "2026-07-18T13:29:56.375Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -320,6 +320,336 @@
       "id": "mrqdfwzv7lxh",
       "front": "sueño",
       "back": "träume, Schlaf, Traums",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17b8tt6",
+      "front": "noticias",
+      "back": "Nachrichten, news, News",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bvo7b",
+      "front": "mintió",
+      "back": "log, lied",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17b6nys",
+      "front": "decisión",
+      "back": "entscheidung, Entschluss, Entscheidung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bju7u",
+      "front": "imposible",
+      "back": "unmöglicher, Unmöglich, unmöglich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17b4wta",
+      "front": "periodismo",
+      "back": "Journalismusartikel, Journalismusunterricht, Journalismuszeitschrift",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17b1hj0",
+      "front": "exmujer",
+      "back": "Exfrau",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bcrbc",
+      "front": "divorciarse",
+      "back": "sich scheiden zu lassen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17brnah",
+      "front": "crisis",
+      "back": "Krise, Notlage",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17b2yzl",
+      "front": "leyó",
+      "back": "las",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bgw64",
+      "front": "piloto",
+      "back": "Pilotin, pilotin, Piloten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bybhq",
+      "front": "renunciar",
+      "back": "verzichtest, aufgeben, verzichten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bksy2",
+      "front": "falso",
+      "back": "falsch, unecht, falscher",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bj23a",
+      "front": "creyó",
+      "back": "glaubte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bq7el",
+      "front": "mentir",
+      "back": "Bluffst, Lügen, lügen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bosm6",
+      "front": "fiable",
+      "back": "belastbarer, seriöses, verlässlich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17buk7h",
+      "front": "miento",
+      "back": "lüge",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bls69",
+      "front": "reportero",
+      "back": "Reporter, Reporters, reporter",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17baoas",
+      "front": "artículo",
+      "back": "Beitrag, Artikels, Artikels (des)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17brjxc",
+      "front": "creí",
+      "back": "glaubte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bsyqo",
+      "front": "economía",
+      "back": "Ökonomie, Volkswirtschaftslehre, wirtschaft",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bovw4",
+      "front": "corrupto",
+      "back": "Korrupten, korrupt, korruptes",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-07-18"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-07-18"
+        }
+      }
+    },
+    {
+      "id": "mrqem17bjjao",
+      "front": "leí",
+      "back": "ich las, las",
       "dirs": {
         "esde": {
           "box": 1,
