@@ -2,43 +2,55 @@
 <html lang="de">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Karteikasten – Spanisch</title>
 <style>
   * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
   body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     background: #F4F1EA;
     color: #2B2A28;
-    padding: 24px 16px 60px;
+    padding: 20px 14px 60px;
   }
   .wrap { max-width: 640px; margin: 0 auto; }
   h1 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 26px;
+    font-size: clamp(22px, 6vw, 26px);
     font-weight: 400;
     margin: 0 0 4px;
   }
-  .sub { color: #6B6960; font-size: 14px; margin-bottom: 24px; }
+  .sub { color: #6B6960; font-size: 14px; margin-bottom: 20px; }
 
-  .boxes { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-bottom: 28px; }
+  .direction-row { display: flex; gap: 6px; margin-bottom: 16px; }
+  .dir-btn {
+    flex: 1; background: #fff; border: 1px solid #DEDACD; border-radius: 8px;
+    padding: 10px 6px; font-size: 13px; color: #6B6960; cursor: pointer;
+  }
+  .dir-btn.active { border-color: #B5603F; background: #FBEFE9; color: #99401F; font-weight: 600; }
+
+  .boxes-group { margin-bottom: 14px; }
+  .boxes-group-label { font-size: 11px; color: #6B6960; margin-bottom: 4px; font-weight: 600; letter-spacing: 0.3px; }
+  .boxes { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; }
+  .boxes-group:last-of-type { margin-bottom: 24px; }
   .box-tab {
     background: #fff;
     border: 1px solid #DEDACD;
     border-radius: 8px;
-    padding: 10px 4px;
+    padding: 8px 2px;
     text-align: center;
     cursor: default;
   }
-  .box-tab .n { font-size: 20px; font-weight: 600; }
-  .box-tab .l { font-size: 11px; color: #6B6960; margin-top: 2px; }
+  .box-tab .n { font-size: clamp(15px, 4.5vw, 20px); font-weight: 600; }
+  .box-tab .l { font-size: clamp(8.5px, 2.4vw, 11px); color: #6B6960; margin-top: 2px; line-height: 1.3; }
   .box-tab.due { border-color: #B5603F; background: #FBEFE9; }
   .box-tab.due .n { color: #B5603F; }
 
-  .tabs { display: flex; gap: 4px; margin-bottom: 20px; border-bottom: 1px solid #DEDACD; }
+  .tabs { display: flex; gap: 2px; margin-bottom: 18px; border-bottom: 1px solid #DEDACD; }
   .tab-btn {
-    background: none; border: none; padding: 10px 16px; font-size: 14px;
-    color: #6B6960; cursor: pointer; border-bottom: 2px solid transparent;
+    background: none; border: none; padding: 10px 8px; font-size: 14px;
+    color: #6B6960; cursor: pointer; border-bottom: 2px solid transparent; flex: 1;
   }
   .tab-btn.active { color: #2B2A28; border-bottom-color: #B5603F; font-weight: 600; }
 
@@ -49,14 +61,15 @@
     background: #fff;
     border: 1px solid #DEDACD;
     border-radius: 12px;
-    padding: 32px 24px;
+    padding: 28px 18px;
     min-height: 140px;
     display: flex; align-items: center; justify-content: center;
     text-align: center;
-    font-size: 22px;
+    font-size: clamp(19px, 5.5vw, 22px);
     cursor: pointer;
     margin-bottom: 16px;
     position: relative;
+    word-break: break-word;
   }
   .card .box-badge {
     position: absolute; top: 10px; left: 14px;
@@ -78,7 +91,7 @@
   form { display: flex; flex-direction: column; gap: 10px; }
   label { font-size: 13px; color: #6B6960; }
   input, textarea {
-    font-size: 15px; padding: 10px; border-radius: 8px;
+    font-size: 16px; padding: 10px; border-radius: 8px;
     border: 1px solid #DEDACD; font-family: inherit; width: 100%;
   }
   .add-btn {
@@ -101,6 +114,12 @@
   .list-row .word { font-weight: 600; }
   .list-row .meta { color: #6B6960; font-size: 12px; }
   .del { background: none; border: none; color: #B5603F; cursor: pointer; font-size: 13px; }
+
+  .sync-status { font-size: 13px; padding: 10px 0; color: #6B6960; }
+  .sync-status.ok { color: #2E5E32; }
+  .sync-status.err { color: #99401F; }
+  .hint-text { font-size: 12px; color: #6B6960; margin-bottom: 8px; line-height: 1.5; }
+  .checkbox-row { display: flex; align-items: center; gap: 8px; font-size: 14px; margin-top: 6px; }
 </style>
 </head>
 <body>
@@ -108,15 +127,21 @@
   <h1>Karteikasten</h1>
   <div class="sub">Spanisch-Vokabeln nach dem Leitner-System</div>
 
-  <div class="boxes" id="boxSummary"></div>
+  <div id="boxSummary"></div>
 
   <div class="tabs">
     <button class="tab-btn active" data-tab="learn">Lernen</button>
     <button class="tab-btn" data-tab="add">Hinzufügen</button>
     <button class="tab-btn" data-tab="list">Übersicht</button>
+    <button class="tab-btn" data-tab="sync">Sync</button>
   </div>
 
   <div class="panel active" id="panel-learn">
+    <div class="direction-row">
+      <button class="dir-btn active" data-dir="es-de">ES → DE</button>
+      <button class="dir-btn" data-dir="de-es">DE → ES</button>
+      <button class="dir-btn" data-dir="mixed">Gemischt</button>
+    </div>
     <div id="learnArea"></div>
   </div>
 
@@ -157,42 +182,120 @@ tierno	zart / liebevoll"></textarea>
   <div class="panel" id="panel-list">
     <div id="listArea"></div>
   </div>
+
+  <div class="panel" id="panel-sync">
+    <div class="hint-text">
+      Speichert deine Karten zentral in einer Datei in deinem GitHub-Repo, sodass sie auf allen Geräten gleich sind.
+      Erstelle dafür auf <strong>github.com/settings/tokens</strong> einen <strong>Fine-grained token</strong>, beschränkt
+      auf genau dieses Repo, mit der Berechtigung <strong>Contents: Read and write</strong>.
+    </div>
+    <form id="syncSettingsForm">
+      <label>Repo (Benutzername/Repo-Name)</label>
+      <input type="text" id="syncRepo" placeholder="z. B. clemens/karteikasten" required>
+      <label>Branch</label>
+      <input type="text" id="syncBranch" placeholder="main" value="main" required>
+      <label>Dateipfad im Repo</label>
+      <input type="text" id="syncPath" placeholder="karteikasten-daten.json" value="karteikasten-daten.json" required>
+      <label>Personal Access Token</label>
+      <input type="password" id="syncToken" placeholder="github_pat_...">
+      <div class="checkbox-row">
+        <input type="checkbox" id="syncAuto">
+        <label for="syncAuto" style="font-size:14px;">Automatisch synchronisieren</label>
+      </div>
+      <button type="submit" class="add-btn" style="margin-top:12px;">Einstellungen speichern</button>
+    </form>
+
+    <div class="backup-actions" style="margin-top:18px;">
+      <button type="button" class="secondary-btn" id="syncUploadBtn">Jetzt hochladen</button>
+      <button type="button" class="secondary-btn" id="syncDownloadBtn">Jetzt herunterladen (überschreibt lokal)</button>
+    </div>
+    <div class="sync-status" id="syncStatus"></div>
+  </div>
 </div>
 
 <script>
 const INTERVALS = [0, 2, 4, 7, 14]; // Tage bis zur nächsten Fälligkeit je Fach (Index 0 = Fach 1)
 const STORAGE_KEY = 'leitner-cards';
+const UPDATED_KEY = 'leitner-updated-at';
+const DIRECTION_KEY = 'leitner-direction';
+const SYNC_SETTINGS_KEY = 'leitner-sync-settings';
 let cards = [];
 let currentCard = null;
+let currentDirection = 'es-de'; // tatsächliche Richtung der aktuell gezeigten Karte
+let learnMode = localStorage.getItem(DIRECTION_KEY) || 'es-de'; // Einstellung: es-de, de-es, mixed
 let flipped = false;
+
+function dirField(dir) {
+  return dir === 'es-de' ? 'esde' : 'dees';
+}
+
+function getProgress(card, dir) {
+  return card.dirs[dirField(dir)];
+}
+
+function migrateCard(c) {
+  if (c.dirs && c.dirs.esde && c.dirs.dees) return c;
+  // Alte Karten (ein gemeinsamer Fortschritt) auf beide Richtungen übertragen
+  const box = Math.min(5, Math.max(1, Number(c.box) || 1));
+  const due = /^\d{4}-\d{2}-\d{2}$/.test(String(c.due || '')) ? c.due : todayStr();
+  return {
+    id: c.id,
+    front: c.front,
+    back: c.back,
+    dirs: {
+      esde: { box, due },
+      dees: { box: 1, due: todayStr() }
+    }
+  };
+}
+
+function newCard(front, back) {
+  return {
+    id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
+    front, back,
+    dirs: {
+      esde: { box: 1, due: todayStr() },
+      dees: { box: 1, due: todayStr() }
+    }
+  };
+}
 
 async function loadCards() {
   const localData = localStorage.getItem(STORAGE_KEY);
   if (localData) {
     try {
-      cards = JSON.parse(localData);
+      cards = JSON.parse(localData).map(migrateCard);
     } catch (e) {
       cards = [];
     }
-    render();
-    return;
+  } else {
+    try {
+      if (!window.storage) throw new Error('Claude storage not available');
+      const res = await window.storage.get(STORAGE_KEY, false);
+      cards = res && res.value ? JSON.parse(res.value).map(migrateCard) : [];
+      if (cards.length > 0) {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(cards));
+      }
+    } catch (e) {
+      cards = [];
+    }
   }
 
-  try {
-    if (!window.storage) throw new Error('Claude storage not available');
-    const res = await window.storage.get(STORAGE_KEY, false);
-    cards = res && res.value ? JSON.parse(res.value) : [];
-    if (cards.length > 0) {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(cards));
+  const settings = getSyncSettings();
+  if (settings && settings.token) {
+    try {
+      await pullFromGitHub(true);
+    } catch (e) {
+      // stiller Fallback auf lokale Daten, Fehler wird beim manuellen Sync sichtbar
     }
-  } catch (e) {
-    cards = [];
   }
+
   render();
 }
 
 async function saveCards() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(cards));
+  localStorage.setItem(UPDATED_KEY, new Date().toISOString());
 
   try {
     if (window.storage) {
@@ -200,6 +303,11 @@ async function saveCards() {
     }
   } catch (e) {
     console.info('Claude-Speicher nicht verfügbar, lokal im Browser gespeichert.');
+  }
+
+  const settings = getSyncSettings();
+  if (settings && settings.token && settings.auto) {
+    scheduleAutoPush();
   }
 }
 
@@ -213,54 +321,79 @@ function addDays(dateStr, days) {
   return d.toISOString().slice(0, 10);
 }
 
-function dueCards() {
+function reviewPool() {
+  // Liste von {card, dir} für alle fälligen Kombinationen, abhängig vom Lernmodus
   const t = todayStr();
-  return cards.filter(c => c.due <= t);
+  const dirs = learnMode === 'mixed' ? ['es-de', 'de-es'] : [learnMode];
+  const pool = [];
+  cards.forEach(c => {
+    dirs.forEach(dir => {
+      if (getProgress(c, dir).due <= t) pool.push({ card: c, dir });
+    });
+  });
+  return pool;
 }
 
-function pickCard() {
-  const due = dueCards();
-  if (due.length === 0) return null;
-  return due[Math.floor(Math.random() * due.length)];
+function pickReviewItem() {
+  const pool = reviewPool();
+  if (pool.length === 0) return null;
+  return pool[Math.floor(Math.random() * pool.length)];
 }
 
 function renderBoxSummary() {
   const el = document.getElementById('boxSummary');
   const t = todayStr();
+  const groups = [
+    { dir: 'es-de', label: 'ES → DE' },
+    { dir: 'de-es', label: 'DE → ES' }
+  ];
   let html = '';
-  for (let i = 1; i <= 5; i++) {
-    const inBox = cards.filter(c => c.box === i);
-    const due = inBox.filter(c => c.due <= t).length;
-    html += `<div class="box-tab ${due > 0 ? 'due' : ''}">
-      <div class="n">${inBox.length}</div>
-      <div class="l">Fach ${i}${due > 0 ? ' · ' + due + ' fällig' : ''}</div>
-    </div>`;
-  }
+  groups.forEach(g => {
+    html += `<div class="boxes-group">
+      <div class="boxes-group-label">${g.label}</div>
+      <div class="boxes">`;
+    for (let i = 1; i <= 5; i++) {
+      const inBox = cards.filter(c => getProgress(c, g.dir).box === i);
+      const due = inBox.filter(c => getProgress(c, g.dir).due <= t).length;
+      html += `<div class="box-tab ${due > 0 ? 'due' : ''}">
+        <div class="n">${inBox.length}</div>
+        <div class="l">Fach ${i}${due > 0 ? ' · ' + due + ' fällig' : ''}</div>
+      </div>`;
+    }
+    html += `</div></div>`;
+  });
   el.innerHTML = html;
 }
 
 function renderLearn() {
   const area = document.getElementById('learnArea');
-  const due = dueCards();
   if (cards.length === 0) {
     area.innerHTML = '<div class="empty">Noch keine Karten. Füge welche unter "Hinzufügen" hinzu.</div>';
     currentCard = null;
     return;
   }
-  if (due.length === 0) {
+  const pool = reviewPool();
+  const stillValid = currentCard && pool.find(p => p.card.id === currentCard.id && p.dir === currentDirection);
+  if (pool.length === 0) {
     area.innerHTML = '<div class="empty">Für heute ist nichts fällig. Komm später wieder.</div>';
     currentCard = null;
     return;
   }
-  if (!currentCard || !due.find(c => c.id === currentCard.id)) {
-    currentCard = pickCard();
+  if (!stillValid) {
+    const picked = pickReviewItem();
+    currentCard = picked.card;
+    currentDirection = picked.dir;
     flipped = false;
   }
   const c = currentCard;
+  const progress = getProgress(c, currentDirection);
+  const showFirst = currentDirection === 'es-de' ? c.front : c.back;
+  const showSecond = currentDirection === 'es-de' ? c.back : c.front;
+  const dirLabel = currentDirection === 'es-de' ? 'ES → DE' : 'DE → ES';
   area.innerHTML = `
     <div class="card" id="flipCard">
-      <span class="box-badge">Fach ${c.box}</span>
-      <span>${flipped ? c.back : c.front}</span>
+      <span class="box-badge">Fach ${progress.box} · ${dirLabel}</span>
+      <span>${flipped ? showSecond : showFirst}</span>
       <span class="hint">${flipped ? '' : 'Zum Umdrehen tippen'}</span>
     </div>
     ${flipped ? `
@@ -280,12 +413,13 @@ function renderLearn() {
 
 function answer(correct) {
   const c = cards.find(x => x.id === currentCard.id);
+  const progress = getProgress(c, currentDirection);
   if (correct) {
-    c.box = Math.min(5, c.box + 1);
+    progress.box = Math.min(5, progress.box + 1);
   } else {
-    c.box = 1;
+    progress.box = 1;
   }
-  c.due = addDays(todayStr(), INTERVALS[c.box - 1]);
+  progress.due = addDays(todayStr(), INTERVALS[progress.box - 1]);
   saveCards();
   currentCard = null;
   flipped = false;
@@ -298,12 +432,12 @@ function renderList() {
     area.innerHTML = '<div class="empty">Noch keine Karten vorhanden.</div>';
     return;
   }
-  const sorted = [...cards].sort((a, b) => a.box - b.box || a.front.localeCompare(b.front));
+  const sorted = [...cards].sort((a, b) => a.front.localeCompare(b.front));
   area.innerHTML = sorted.map(c => `
     <div class="list-row">
       <div>
         <div class="word">${escapeHtml(c.front)} → ${escapeHtml(c.back)}</div>
-        <div class="meta">Fach ${c.box} · fällig ${c.due}</div>
+        <div class="meta">ES→DE: Fach ${c.dirs.esde.box} (${c.dirs.esde.due}) · DE→ES: Fach ${c.dirs.dees.box} (${c.dirs.dees.due})</div>
       </div>
       <button class="del" data-id="${c.id}">Löschen</button>
     </div>
@@ -333,14 +467,34 @@ function normalizeImportedCards(importedCards) {
   if (!Array.isArray(importedCards)) return null;
 
   return importedCards
-    .map(c => ({
-      id: String(c.id || Date.now().toString(36) + Math.random().toString(36).slice(2, 6)),
-      front: String(c.front || '').trim(),
-      back: String(c.back || '').trim(),
-      box: Math.min(5, Math.max(1, Number(c.box) || 1)),
-      due: /^\d{4}-\d{2}-\d{2}$/.test(String(c.due || '')) ? String(c.due) : todayStr()
-    }))
-    .filter(c => c.front && c.back);
+    .map(c => {
+      const front = String(c.front || '').trim();
+      const back = String(c.back || '').trim();
+      if (!front || !back) return null;
+      if (c.dirs && c.dirs.esde && c.dirs.dees) {
+        return {
+          id: String(c.id || Date.now().toString(36) + Math.random().toString(36).slice(2, 6)),
+          front, back,
+          dirs: {
+            esde: {
+              box: Math.min(5, Math.max(1, Number(c.dirs.esde.box) || 1)),
+              due: /^\d{4}-\d{2}-\d{2}$/.test(String(c.dirs.esde.due || '')) ? c.dirs.esde.due : todayStr()
+            },
+            dees: {
+              box: Math.min(5, Math.max(1, Number(c.dirs.dees.box) || 1)),
+              due: /^\d{4}-\d{2}-\d{2}$/.test(String(c.dirs.dees.due || '')) ? c.dirs.dees.due : todayStr()
+            }
+          }
+        };
+      }
+      // Altes Format (gemeinsamer Fortschritt)
+      return migrateCard({
+        id: c.id, front, back,
+        box: Number(c.box) || 1,
+        due: c.due
+      });
+    })
+    .filter(Boolean);
 }
 
 function downloadBackup() {
@@ -382,6 +536,176 @@ async function importBackupFile(file) {
   }
 }
 
+/* ---------- GitHub-Sync ---------- */
+
+function getSyncSettings() {
+  try {
+    const raw = localStorage.getItem(SYNC_SETTINGS_KEY);
+    return raw ? JSON.parse(raw) : null;
+  } catch (e) {
+    return null;
+  }
+}
+
+function saveSyncSettings(settings) {
+  localStorage.setItem(SYNC_SETTINGS_KEY, JSON.stringify(settings));
+}
+
+function utf8ToBase64(str) {
+  return btoa(unescape(encodeURIComponent(str)));
+}
+
+function base64ToUtf8(b64) {
+  return decodeURIComponent(escape(atob(b64.replace(/\n/g, ''))));
+}
+
+function githubApiUrl(settings) {
+  return `https://api.github.com/repos/${settings.repo}/contents/${encodeURIComponent(settings.path).replace(/%2F/g, '/')}`;
+}
+
+function setSyncStatus(text, kind) {
+  const el = document.getElementById('syncStatus');
+  el.textContent = text;
+  el.className = 'sync-status' + (kind ? ' ' + kind : '');
+}
+
+async function fetchRemoteFile(settings) {
+  const res = await fetch(`${githubApiUrl(settings)}?ref=${encodeURIComponent(settings.branch)}`, {
+    headers: {
+      Authorization: `Bearer ${settings.token}`,
+      Accept: 'application/vnd.github+json'
+    }
+  });
+  if (res.status === 404) return { exists: false };
+  if (!res.ok) throw new Error('GitHub-Anfrage fehlgeschlagen (' + res.status + ')');
+  const json = await res.json();
+  return { exists: true, sha: json.sha, content: base64ToUtf8(json.content) };
+}
+
+async function pushToGitHub() {
+  const settings = getSyncSettings();
+  if (!settings || !settings.token) {
+    setSyncStatus('Bitte zuerst Repo und Token eintragen und speichern.', 'err');
+    return;
+  }
+  setSyncStatus('Lade hoch …');
+  try {
+    const remote = await fetchRemoteFile(settings);
+    const payload = {
+      updatedAt: localStorage.getItem(UPDATED_KEY) || new Date().toISOString(),
+      cards
+    };
+    const body = {
+      message: 'Karteikasten-Update ' + new Date().toISOString(),
+      content: utf8ToBase64(JSON.stringify(payload, null, 2)),
+      branch: settings.branch
+    };
+    if (remote.exists) body.sha = remote.sha;
+
+    const res = await fetch(githubApiUrl(settings), {
+      method: 'PUT',
+      headers: {
+        Authorization: `Bearer ${settings.token}`,
+        Accept: 'application/vnd.github+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(body)
+    });
+    if (!res.ok) {
+      const errText = await res.text();
+      throw new Error('Upload fehlgeschlagen (' + res.status + '): ' + errText.slice(0, 150));
+    }
+    setSyncStatus('Erfolgreich hochgeladen · ' + new Date().toLocaleTimeString('de-DE'), 'ok');
+  } catch (e) {
+    setSyncStatus('Fehler beim Hochladen: ' + e.message, 'err');
+  }
+}
+
+async function pullFromGitHub(silent) {
+  const settings = getSyncSettings();
+  if (!settings || !settings.token) {
+    if (!silent) setSyncStatus('Bitte zuerst Repo und Token eintragen und speichern.', 'err');
+    return;
+  }
+  if (!silent) setSyncStatus('Lade herunter …');
+  try {
+    const remote = await fetchRemoteFile(settings);
+    if (!remote.exists) {
+      if (!silent) setSyncStatus('Auf GitHub liegt noch keine Datei vor. Lade zuerst einmal hoch.', 'err');
+      return;
+    }
+    const remoteData = JSON.parse(remote.content);
+    const remoteUpdatedAt = remoteData.updatedAt || '1970-01-01T00:00:00.000Z';
+    const localUpdatedAt = localStorage.getItem(UPDATED_KEY) || '1970-01-01T00:00:00.000Z';
+
+    if (!silent && new Date(remoteUpdatedAt) < new Date(localUpdatedAt)) {
+      const proceed = confirm('Deine lokalen Daten sind neuer als die auf GitHub. Trotzdem überschreiben?');
+      if (!proceed) { setSyncStatus('Abgebrochen.', ''); return; }
+    }
+    // Beim automatischen (stillen) Laden nur übernehmen, wenn Remote wirklich neuer ist
+    if (silent && new Date(remoteUpdatedAt) <= new Date(localUpdatedAt)) return;
+
+    cards = (remoteData.cards || []).map(migrateCard);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(cards));
+    localStorage.setItem(UPDATED_KEY, remoteUpdatedAt);
+    currentCard = null;
+    flipped = false;
+    render();
+    if (!silent) setSyncStatus('Erfolgreich heruntergeladen · ' + cards.length + ' Karten', 'ok');
+  } catch (e) {
+    if (!silent) setSyncStatus('Fehler beim Herunterladen: ' + e.message, 'err');
+  }
+}
+
+let autoPushTimer = null;
+function scheduleAutoPush() {
+  clearTimeout(autoPushTimer);
+  autoPushTimer = setTimeout(() => {
+    pushToGitHub();
+  }, 2500);
+}
+
+document.getElementById('syncSettingsForm').addEventListener('submit', (e) => {
+  e.preventDefault();
+  const existing = getSyncSettings() || {};
+  const settings = {
+    repo: document.getElementById('syncRepo').value.trim().replace(/^https?:\/\/github\.com\//, '').replace(/\/$/, ''),
+    branch: document.getElementById('syncBranch').value.trim() || 'main',
+    path: document.getElementById('syncPath').value.trim() || 'karteikasten-daten.json',
+    token: document.getElementById('syncToken').value.trim() || existing.token || '',
+    auto: document.getElementById('syncAuto').checked
+  };
+  saveSyncSettings(settings);
+  setSyncStatus('Einstellungen gespeichert.', 'ok');
+});
+
+document.getElementById('syncUploadBtn').addEventListener('click', () => pushToGitHub());
+document.getElementById('syncDownloadBtn').addEventListener('click', () => pullFromGitHub(false));
+
+function restoreSyncFormFromSettings() {
+  const settings = getSyncSettings();
+  if (!settings) return;
+  document.getElementById('syncRepo').value = settings.repo || '';
+  document.getElementById('syncBranch').value = settings.branch || 'main';
+  document.getElementById('syncPath').value = settings.path || 'karteikasten-daten.json';
+  document.getElementById('syncAuto').checked = !!settings.auto;
+  // Token bewusst nicht wieder anzeigen, nur Platzhalter
+  if (settings.token) document.getElementById('syncToken').placeholder = '•••• bereits gespeichert, zum Ändern neu eintragen';
+}
+restoreSyncFormFromSettings();
+
+document.querySelectorAll('.dir-btn').forEach(btn => {
+  btn.onclick = () => {
+    learnMode = btn.dataset.dir;
+    localStorage.setItem(DIRECTION_KEY, learnMode);
+    document.querySelectorAll('.dir-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentCard = null;
+    flipped = false;
+    renderLearn();
+  };
+});
+
 document.querySelectorAll('.tab-btn').forEach(btn => {
   btn.onclick = () => {
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -396,10 +720,7 @@ document.getElementById('addForm').addEventListener('submit', async (e) => {
   const front = document.getElementById('frontInput').value.trim();
   const back = document.getElementById('backInput').value.trim();
   if (!front || !back) return;
-  cards.push({
-    id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
-    front, back, box: 1, due: todayStr()
-  });
+  cards.push(newCard(front, back));
   await saveCards();
   document.getElementById('frontInput').value = '';
   document.getElementById('backInput').value = '';
@@ -420,10 +741,7 @@ document.getElementById('importBtn').addEventListener('click', async () => {
     const front = parts[0].trim();
     const back = parts.slice(1).join(' ').trim();
     if (!front || !back) { skipped++; return; }
-    cards.push({
-      id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
-      front, back, box: 1, due: todayStr()
-    });
+    cards.push(newCard(front, back));
     added++;
   });
   await saveCards();
@@ -438,6 +756,10 @@ document.getElementById('exportBtn').addEventListener('click', downloadBackup);
 document.getElementById('backupInput').addEventListener('change', async (e) => {
   await importBackupFile(e.target.files[0]);
   e.target.value = '';
+});
+
+document.querySelectorAll('.dir-btn').forEach(b => {
+  b.classList.toggle('active', b.dataset.dir === learnMode);
 });
 
 loadCards();
