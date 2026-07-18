@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T13:55:26.941Z",
+  "updatedAt": "2026-07-18T13:56:45.421Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -232,8 +232,8 @@
       "back": "Maurer, Maurers, Maurerin",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-18"
+          "box": 2,
+          "due": "2026-07-20"
         },
         "dees": {
           "box": 1,
@@ -382,8 +382,8 @@
       "back": "unmöglicher, Unmöglich, unmöglich",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-18"
+          "box": 2,
+          "due": "2026-07-20"
         },
         "dees": {
           "box": 1,
@@ -472,8 +472,8 @@
       "back": "Pilotin, pilotin, Piloten",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-18"
+          "box": 2,
+          "due": "2026-07-20"
         },
         "dees": {
           "box": 1,
