@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T14:01:11.765Z",
+  "updatedAt": "2026-07-18T14:02:13.253Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -82,8 +82,8 @@
       "back": "eingeschlossen, schloss ein",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-18"
+          "box": 2,
+          "due": "2026-07-20"
         },
         "dees": {
           "box": 1,
@@ -322,8 +322,8 @@
       "back": "träume, Schlaf, Traums",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-18"
+          "box": 2,
+          "due": "2026-07-20"
         },
         "dees": {
           "box": 1,
