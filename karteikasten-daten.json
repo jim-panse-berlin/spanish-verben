@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T14:02:13.253Z",
+  "updatedAt": "2026-07-18T14:03:39.313Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -577,8 +577,8 @@
       "back": "Reporter, Reporters, reporter",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-18"
+          "box": 2,
+          "due": "2026-07-20"
         },
         "dees": {
           "box": 1,
