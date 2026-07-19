@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T19:46:46.655Z",
+  "updatedAt": "2026-07-19T19:47:47.827Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -142,8 +142,8 @@
       "back": "voraussetzung, anforderung, Anforderung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-19"
+          "box": 2,
+          "due": "2026-07-21"
         },
         "dees": {
           "box": 1,
@@ -262,8 +262,8 @@
       "back": "Erfolg, schaffe",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-19"
+          "box": 2,
+          "due": "2026-07-21"
         },
         "dees": {
           "box": 1,
@@ -307,8 +307,8 @@
       "back": "baue, anzufertigen, baust",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-18"
+          "box": 2,
+          "due": "2026-07-21"
         },
         "dees": {
           "box": 1,
@@ -488,7 +488,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-07-18"
+          "due": "2026-07-19"
         },
         "dees": {
           "box": 1,
@@ -563,7 +563,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-07-18"
+          "due": "2026-07-19"
         },
         "dees": {
           "box": 1,
