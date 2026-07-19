@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T19:55:42.959Z",
+  "updatedAt": "2026-07-19T19:56:44.051Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -202,8 +202,8 @@
       "back": "antrags, Antrags, bewerbung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-19"
+          "box": 2,
+          "due": "2026-07-21"
         },
         "dees": {
           "box": 1,
