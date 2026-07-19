@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T19:47:47.827Z",
+  "updatedAt": "2026-07-19T19:55:42.959Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -37,8 +37,8 @@
       "back": "denke, überlege, (ich) denke",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-19"
+          "box": 2,
+          "due": "2026-07-21"
         },
         "dees": {
           "box": 1,
@@ -248,7 +248,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-07-18"
+          "due": "2026-07-19"
         },
         "dees": {
           "box": 1,
