@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T17:51:27.657Z",
+  "updatedAt": "2026-07-20T17:52:31.495Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -278,7 +278,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-07-20"
+          "due": "2026-07-22"
         },
         "dees": {
           "box": 1,
@@ -292,8 +292,8 @@
       "back": "Architektur, architektur",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -352,8 +352,8 @@
       "back": "log, lied",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -398,7 +398,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-07-20"
+          "due": "2026-07-22"
         },
         "dees": {
           "box": 1,
@@ -412,8 +412,8 @@
       "back": "Exfrau",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -457,8 +457,8 @@
       "back": "las",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -472,8 +472,8 @@
       "back": "Pilotin, pilotin, Piloten",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -488,7 +488,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-07-19"
+          "due": "2026-07-20"
         },
         "dees": {
           "box": 1,
@@ -637,8 +637,8 @@
       "back": "Korrupten, korrupt, korruptes",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
