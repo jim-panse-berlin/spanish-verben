@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T17:49:21.831Z",
+  "updatedAt": "2026-07-20T17:50:24.302Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -7,7 +7,7 @@
       "back": "Überlege, Denken, Denke",
       "dirs": {
         "esde": {
-          "box": 2,
+          "box": 1,
           "due": "2026-07-20"
         },
         "dees": {
@@ -217,8 +217,8 @@
       "back": "Seite, seite",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -337,8 +337,8 @@
       "back": "Nachrichten, news, News",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -367,8 +367,8 @@
       "back": "entscheidung, Entschluss, Entscheidung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -382,8 +382,8 @@
       "back": "unmöglicher, Unmöglich, unmöglich",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -442,8 +442,8 @@
       "back": "Krise, Notlage",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -502,8 +502,8 @@
       "back": "falsch, unecht, falscher",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -532,8 +532,8 @@
       "back": "Bluffst, Lügen, lügen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -562,8 +562,8 @@
       "back": "lüge",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-19"
+          "box": 2,
+          "due": "2026-07-22"
         },
         "dees": {
           "box": 1,
@@ -577,8 +577,8 @@
       "back": "Reporter, Reporters, reporter",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -592,8 +592,8 @@
       "back": "Beitrag, Artikels, Artikels (des)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -607,8 +607,8 @@
       "back": "glaubte",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -652,8 +652,8 @@
       "back": "ich las, las",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
