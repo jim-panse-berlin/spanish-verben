@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T17:50:24.302Z",
+  "updatedAt": "2026-07-20T17:51:27.657Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -7,8 +7,8 @@
       "back": "Überlege, Denken, Denke",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-07-20"
+          "box": 2,
+          "due": "2026-07-22"
         },
         "dees": {
           "box": 1,
@@ -52,8 +52,8 @@
       "back": "Kosten (plural)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -67,8 +67,8 @@
       "back": "Stipendium, stipendium",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -82,8 +82,8 @@
       "back": "eingeschlossen, schloss ein",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -97,8 +97,8 @@
       "back": "wahrscheinliche, wahrscheinlich, wahrscheinliches",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -127,8 +127,8 @@
       "back": "Ferienreise, Trip, Fahrt",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -157,8 +157,8 @@
       "back": "Importieren, bedeutest, wichtig",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -187,8 +187,8 @@
       "back": "Ingenieurwesen-Unterricht, Ingenieurstudium, Ingenieurprojekt",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -232,8 +232,8 @@
       "back": "Maurer, Maurers, Maurerin",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -322,8 +322,8 @@
       "back": "träume, Schlaf, Traums",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
@@ -517,8 +517,8 @@
       "back": "glaubte",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-24"
         },
         "dees": {
           "box": 1,
