@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:09:07.651Z",
+  "updatedAt": "2026-07-23T20:36:50.468Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -307,8 +307,8 @@
       "back": "baue, anzufertigen, baust",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-21"
+          "box": 3,
+          "due": "2026-07-27"
         },
         "dees": {
           "box": 1,
