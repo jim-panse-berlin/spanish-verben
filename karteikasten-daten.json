@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T16:49:16.792Z",
+  "updatedAt": "2026-07-23T17:08:50.865Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -22,8 +22,8 @@
       "back": "anmelden, immatrikulieren",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-20"
+          "box": 3,
+          "due": "2026-07-27"
         },
         "dees": {
           "box": 1,
@@ -142,8 +142,8 @@
       "back": "voraussetzung, anforderung, Anforderung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-07-21"
+          "box": 1,
+          "due": "2026-07-23"
         },
         "dees": {
           "box": 1,
