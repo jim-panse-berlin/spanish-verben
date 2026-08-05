@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T20:36:50.468Z",
+  "updatedAt": "2026-08-05T20:35:43.976Z",
   "cards": [
     {
       "id": "mrqdfwzv2uk9",
@@ -127,8 +127,8 @@
       "back": "Ferienreise, Trip, Fahrt",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-07-24"
+          "box": 1,
+          "due": "2026-08-05"
         },
         "dees": {
           "box": 1,
