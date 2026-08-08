@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T10:19:28.463Z",
+  "updatedAt": "2026-08-08T10:20:28.745Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -82,8 +82,8 @@
       "back": "hierher, hier",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-08"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -142,8 +142,8 @@
       "back": "gewalttätig, gewaltsam",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-08"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -502,8 +502,8 @@
       "back": "Grapefruit",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-08"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
