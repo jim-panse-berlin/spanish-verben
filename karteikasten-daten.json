@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T10:16:20.898Z",
+  "updatedAt": "2026-08-08T10:17:23.148Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -37,8 +37,8 @@
       "back": "fünfundzwanzig",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-08"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -320,6 +320,291 @@
       "id": "msk7xyn39cfk",
       "front": "crimen",
       "back": "Verbrechen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza51sp4",
+      "front": "a la semana",
+      "back": "pro Woche",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5c4vd",
+      "front": "baloncesto",
+      "back": "Basketball",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza53wb2",
+      "front": "vuelta",
+      "back": "Runde; Rückkehr; Umdrehung; Tour (je nach Kontext)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5v7xx",
+      "front": "bucear",
+      "back": "tauchen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5ekeh",
+      "front": "meditación",
+      "back": "Meditation",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5ngkd",
+      "front": "al día",
+      "back": "pro Tag",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5lgc9",
+      "front": "terapia",
+      "back": "Therapie",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5a0qw",
+      "front": "aconsejar",
+      "back": "raten, empfehlen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5m8bi",
+      "front": "vine",
+      "back": "ich kam (Vergangenheit von venir)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza58yoo",
+      "front": "senderismo",
+      "back": "Wandern",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5htj7",
+      "front": "gafas de sol",
+      "back": "Sonnenbrille",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5h611",
+      "front": "toronja",
+      "back": "Grapefruit",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5jv4d",
+      "front": "dormido",
+      "back": "eingeschlafen; schlafend (Partizip von dormir)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5ttwg",
+      "front": "hueso",
+      "back": "Knochen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5zhmz",
+      "front": "viniste",
+      "back": "du kamst (Vergangenheit von venir)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5fogq",
+      "front": "músculo",
+      "back": "Muskel",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5uv9i",
+      "front": "hace poco",
+      "back": "vor Kurzem",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5vh0o",
+      "front": "ramo",
+      "back": "Blumenstrauß; Zweig; Bereich/Fachgebiet (je nach Kontext)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7yza5c91r",
+      "front": "caramelo",
+      "back": "Bonbon, Karamell",
       "dirs": {
         "esde": {
           "box": 1,
