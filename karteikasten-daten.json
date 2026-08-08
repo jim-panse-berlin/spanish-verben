@@ -1,4 +1,335 @@
 {
-  "updatedAt": "2026-08-05T20:41:16.061Z",
-  "cards": []
+  "updatedAt": "2026-08-08T10:16:20.898Z",
+  "cards": [
+    {
+      "id": "msk7xyn1095v",
+      "front": "veintitrés",
+      "back": "dreiundzwanzig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn20jk2",
+      "front": "veinticuatro",
+      "back": "vierundzwanzig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn2kelz",
+      "front": "veinticinco",
+      "back": "fünfundzwanzig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn2h3mm",
+      "front": "mire",
+      "back": "schauen Sie! / sehen Sie!",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn2na0q",
+      "front": "dentro",
+      "back": "innen, drinnen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn2riia",
+      "front": "acá",
+      "back": "hierher, hier",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn2qhwt",
+      "front": "de metal",
+      "back": "aus Metall",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn2ey1n",
+      "front": "cuidado",
+      "back": "Vorsicht! / Sorgfalt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn292zw",
+      "front": "atrapar",
+      "back": "fangen, schnappen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3bv6n",
+      "front": "violento",
+      "back": "gewalttätig, gewaltsam",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3p0v4",
+      "front": "valer",
+      "back": "wert sein, gelten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3q0mg",
+      "front": "víctima",
+      "back": "Opfer",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3f9pk",
+      "front": "gorro",
+      "back": "Mütze",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3fdai",
+      "front": "entrevistar",
+      "back": "interviewen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3eiee",
+      "front": "criminal",
+      "back": "Krimineller; kriminell",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3s8vo",
+      "front": "quiosco",
+      "back": "Kiosk",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3fymp",
+      "front": "golpear",
+      "back": "schlagen, treffen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3br5w",
+      "front": "engañar",
+      "back": "täuschen, betrügen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn37tvk",
+      "front": "detective",
+      "back": "Detektiv",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3e56i",
+      "front": "ilegal",
+      "back": "illegal",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn3x7pf",
+      "front": "esconderse",
+      "back": "sich verstecken",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "msk7xyn39cfk",
+      "front": "crimen",
+      "back": "Verbrechen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-08"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-08"
+        }
+      }
+    }
+  ]
 }
