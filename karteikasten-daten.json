@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T10:20:28.745Z",
+  "updatedAt": "2026-08-08T21:55:10.793Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -202,8 +202,8 @@
       "back": "interviewen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-08"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -472,8 +472,8 @@
       "back": "Wandern",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-08"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -577,8 +577,8 @@
       "back": "vor Kurzem",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-08"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -607,8 +607,8 @@
       "back": "Bonbon, Karamell",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-08"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
