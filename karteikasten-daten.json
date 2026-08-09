@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T09:51:59.769Z",
+  "updatedAt": "2026-08-09T17:27:12.496Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -682,8 +682,8 @@
       "back": "Lateinamerika",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-11"
         },
         "dees": {
           "box": 1,
@@ -935,6 +935,261 @@
       "id": "mslmihw9116u",
       "front": "económico",
       "back": "wirtschaftlich; ökonomisch; preiswert (je nach Kontext)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azdc3y",
+      "front": "musulmán",
+      "back": "Muslim",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azyys5",
+      "front": "fuego",
+      "back": "Feuer",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7az17mb",
+      "front": "budista",
+      "back": "Buddhist",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azazg8",
+      "front": "enciendo",
+      "back": "ich zünde an / ich schalte ein",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azv5oo",
+      "front": "encender",
+      "back": "anzünden, einschalten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azxvzm",
+      "front": "cristiano",
+      "back": "Christ",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azvpcn",
+      "front": "misa",
+      "back": "Messe (Gottesdienst)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azogug",
+      "front": "templo",
+      "back": "Tempel",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azsmnb",
+      "front": "religioso",
+      "back": "religiös; Ordensmitglied",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azmc9s",
+      "front": "olor",
+      "back": "Geruch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7az25sp",
+      "front": "indio",
+      "back": "Inder; indianisch/Indianer",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azi8mp",
+      "front": "sinagoga",
+      "back": "Synagoge",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7az6nq9",
+      "front": "brasileño",
+      "back": "Brasilianer; brasilianisch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7az4nzu",
+      "front": "mezquita",
+      "back": "Moschee",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azj4w3",
+      "front": "armar",
+      "back": "aufbauen, zusammenbauen; bewaffnen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7azrto0",
+      "front": "escenario",
+      "back": "Bühne; Szenario",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmj7az1pcb",
+      "front": "religión",
+      "back": "Religion",
       "dirs": {
         "esde": {
           "box": 1,
