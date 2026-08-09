@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:56:13.582Z",
+  "updatedAt": "2026-08-09T09:51:59.769Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -247,8 +247,8 @@
       "back": "schlagen, treffen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-08"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -613,6 +613,336 @@
         "dees": {
           "box": 1,
           "due": "2026-08-08"
+        }
+      }
+    },
+    {
+      "id": "mslmihw8jpxq",
+      "front": "haber",
+      "back": "haben; Hilfsverb („haben\"), auch „es gibt\" (je nach Verwendung)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw88npg",
+      "front": "puertorriqueño",
+      "back": "puerto-ricanisch; Puerto-Ricaner/-in",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw80dpz",
+      "front": "nacional",
+      "back": "national",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw8j2ty",
+      "front": "persona mayor",
+      "back": "ältere Person",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw8rv4d",
+      "front": "América Latina",
+      "back": "Lateinamerika",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw8c4n4",
+      "front": "internacional",
+      "back": "international",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw82jn1",
+      "front": "ejército",
+      "back": "Armee, Heer",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw8w4qz",
+      "front": "reunirse",
+      "back": "sich treffen, sich versammeln",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw97a1z",
+      "front": "Seguridad Social",
+      "back": "Sozialversicherung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9koo3",
+      "front": "educación",
+      "back": "Bildung, Erziehung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9b3xb",
+      "front": "legal",
+      "back": "legal, gesetzlich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9kulw",
+      "front": "injusto",
+      "back": "ungerecht",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9uyhi",
+      "front": "cambio",
+      "back": "Veränderung, Wechsel, Änderung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw90b45",
+      "front": "alcanzar",
+      "back": "erreichen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9w6v5",
+      "front": "ciudadano",
+      "back": "Bürger",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9c0se",
+      "front": "ley",
+      "back": "Gesetz",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9m1pb",
+      "front": "impuesto",
+      "back": "Steuer",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw94w8a",
+      "front": "juez",
+      "back": "Richter",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9fb5u",
+      "front": "opinar",
+      "back": "eine Meinung haben, seine Meinung äußern",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9ynan",
+      "front": "campaña política",
+      "back": "Wahlkampf, politische Kampagne",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9m464",
+      "front": "jueza",
+      "back": "Richterin",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mslmihw9116u",
+      "front": "económico",
+      "back": "wirtschaftlich; ökonomisch; preiswert (je nach Kontext)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-09"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-09"
         }
       }
     }
