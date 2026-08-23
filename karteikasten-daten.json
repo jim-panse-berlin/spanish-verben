@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:31:18.666Z",
+  "updatedAt": "2026-08-23T20:32:02.642Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -97,8 +97,8 @@
       "back": "aus Metall",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -217,8 +217,8 @@
       "back": "Krimineller; kriminell",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -232,8 +232,8 @@
       "back": "Kiosk",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -307,8 +307,8 @@
       "back": "sich verstecken",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -727,8 +727,8 @@
       "back": "sich treffen, sich versammeln",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -818,7 +818,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-09"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -847,8 +847,8 @@
       "back": "Gesetz",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -982,8 +982,8 @@
       "back": "Buddhist",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1087,8 +1087,8 @@
       "back": "Geruch",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1207,8 +1207,8 @@
       "back": "derzeit / momentan",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1312,8 +1312,8 @@
       "back": "beschädigen / schädigen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1402,8 +1402,8 @@
       "back": "Titel",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1882,8 +1882,8 @@
       "back": "Zirkus",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
