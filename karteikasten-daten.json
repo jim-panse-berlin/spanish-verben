@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:18:11.120Z",
+  "updatedAt": "2026-08-23T20:19:45.686Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -142,8 +142,8 @@
       "back": "gewalttätig, gewaltsam",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -202,8 +202,8 @@
       "back": "interviewen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -322,8 +322,8 @@
       "back": "Verbrechen",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -337,8 +337,8 @@
       "back": "pro Woche",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -397,8 +397,8 @@
       "back": "Meditation",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -412,8 +412,8 @@
       "back": "pro Tag",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -607,8 +607,8 @@
       "back": "Bonbon, Karamell",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -682,8 +682,8 @@
       "back": "Lateinamerika",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 2,
+          "due": "2026-08-11"
         },
         "dees": {
           "box": 1,
@@ -742,8 +742,8 @@
       "back": "Sozialversicherung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 1,
+          "due": "2026-08-09"
         },
         "dees": {
           "box": 1,
@@ -772,8 +772,8 @@
       "back": "legal, gesetzlich",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 1,
+          "due": "2026-08-09"
         },
         "dees": {
           "box": 1,
@@ -907,8 +907,8 @@
       "back": "Wahlkampf, politische Kampagne",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 1,
+          "due": "2026-08-09"
         },
         "dees": {
           "box": 1,
@@ -952,8 +952,8 @@
       "back": "Muslim",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 1,
+          "due": "2026-08-09"
         },
         "dees": {
           "box": 1,
@@ -1043,7 +1043,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-23"
+          "due": "2026-08-09"
         },
         "dees": {
           "box": 1,
@@ -1072,8 +1072,8 @@
       "back": "religiös; Ordensmitglied",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 1,
+          "due": "2026-08-09"
         },
         "dees": {
           "box": 1,
@@ -1198,696 +1198,6 @@
         "dees": {
           "box": 1,
           "due": "2026-08-09"
-        }
-      }
-    },
-    {
-      "id": "mt6909e9zi94",
-      "front": "actualmente",
-      "back": "derzeit / momentan",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ea5rq0",
-      "front": "situación",
-      "back": "Situation / Lage",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909eanyh8",
-      "front": "total",
-      "back": "insgesamt / gesamt / total",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909eavufl",
-      "front": "actual",
-      "back": "aktuell / derzeitige(r)",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ea78rt",
-      "front": "por el momento",
-      "back": "im Moment / vorerst",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ea2k2n",
-      "front": "población",
-      "back": "Bevölkerung",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ea8nvf",
-      "front": "reciente",
-      "back": "kürzlich / neu / jüngst",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909eac0g4",
-      "front": "dañar",
-      "back": "beschädigen / schädigen",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ebeq7l",
-      "front": "escapar",
-      "back": "entkommen / fliehen",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ecb2zr",
-      "front": "causar",
-      "back": "verursachen",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ecc3mv",
-      "front": "mundial",
-      "back": "weltweit / welt-",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909eca1t5",
-      "front": "daño",
-      "back": "Schaden",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ec8fr9",
-      "front": "causa",
-      "back": "Ursache / Grund",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909echs1i",
-      "front": "título",
-      "back": "Titel",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ecryqt",
-      "front": "silenciosamente",
-      "back": "still / leise / lautlos",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ecmdq9",
-      "front": "curioso",
-      "back": "neugierig / kurios",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt6909ec1s98",
-      "front": "silencioso",
-      "back": "still / ruhig / leise",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvhx4s",
-      "front": "hubo",
-      "back": "es gab",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvujp9",
-      "front": "en el",
-      "back": "im / in dem",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvbovo",
-      "front": "beso",
-      "back": "Kuss",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv6e0x",
-      "front": "romance",
-      "back": "Romanze / Liebesgeschichte",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgva0gl",
-      "front": "humor",
-      "back": "Humor",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv3zyt",
-      "front": "abrazo",
-      "back": "Umarmung",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvsu2a",
-      "front": "borrar",
-      "back": "löschen",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvzsbm",
-      "front": "publicidad",
-      "back": "Werbung",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvjtoy",
-      "front": "experto",
-      "back": "Experte / fachkundig",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv96ig",
-      "front": "buzón de voz",
-      "back": "Mailbox",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvzwan",
-      "front": "comunicarse",
-      "back": "sich verständigen / kommunizieren",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv7wkl",
-      "front": "chatear",
-      "back": "chatten",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvfa1z",
-      "front": "conectar",
-      "back": "verbinden",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvn6le",
-      "front": "instalar",
-      "back": "installieren",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvndi0",
-      "front": "crear",
-      "back": "erstellen",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvp6np",
-      "front": "hispano",
-      "back": "hispanisch",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvrysu",
-      "front": "estudiar",
-      "back": "lernen / studieren",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvqd33",
-      "front": "autobiografía",
-      "back": "Autobiografie",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv96dr",
-      "front": "texto",
-      "back": "Text",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv7go8",
-      "front": "párrafo",
-      "back": "Absatz",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvud74",
-      "front": "capítulo",
-      "back": "Kapitel",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv9gx2",
-      "front": "las afueras",
-      "back": "Stadtrand / Außenbezirke",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvqojd",
-      "front": "entero",
-      "back": "ganz / vollständig",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvxzpu",
-      "front": "parque de atracciones",
-      "back": "Vergnügungspark",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvzjnk",
-      "front": "mayoría",
-      "back": "Mehrheit",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgvyb5i",
-      "front": "frutería",
-      "back": "Obstladen",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv9b50",
-      "front": "pasado mañana",
-      "back": "übermorgen",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv7vum",
-      "front": "anual",
-      "back": "jährlich",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
-        }
-      }
-    },
-    {
-      "id": "mt691pgv3vkh",
-      "front": "circo",
-      "back": "Zirkus",
-      "dirs": {
-        "esde": {
-          "box": 1,
-          "due": "2026-08-23"
-        },
-        "dees": {
-          "box": 1,
-          "due": "2026-08-23"
         }
       }
     }
