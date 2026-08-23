@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:21:10.421Z",
+  "updatedAt": "2026-08-23T20:22:17.003Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -7,8 +7,8 @@
       "back": "dreiundzwanzig",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -157,8 +157,8 @@
       "back": "wert sein, gelten",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -787,8 +787,8 @@
       "back": "ungerecht",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -863,7 +863,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-09"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1117,8 +1117,8 @@
       "back": "Synagoge",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1147,8 +1147,8 @@
       "back": "Moschee",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1252,8 +1252,8 @@
       "back": "aktuell / derzeitige(r)",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1462,8 +1462,8 @@
       "back": "es gab",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
