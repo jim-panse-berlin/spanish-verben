@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T18:58:22.815Z",
+  "updatedAt": "2026-08-23T20:17:03.639Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -142,8 +142,8 @@
       "back": "gewalttätig, gewaltsam",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -202,8 +202,8 @@
       "back": "interviewen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -322,8 +322,8 @@
       "back": "Verbrechen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -337,8 +337,8 @@
       "back": "pro Woche",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -742,8 +742,8 @@
       "back": "Sozialversicherung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1072,8 +1072,8 @@
       "back": "religiös; Ordensmitglied",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1198,6 +1198,261 @@
         "dees": {
           "box": 1,
           "due": "2026-08-09"
+        }
+      }
+    },
+    {
+      "id": "mt6909e9zi94",
+      "front": "actualmente",
+      "back": "derzeit / momentan",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ea5rq0",
+      "front": "situación",
+      "back": "Situation / Lage",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909eanyh8",
+      "front": "total",
+      "back": "insgesamt / gesamt / total",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909eavufl",
+      "front": "actual",
+      "back": "aktuell / derzeitige(r)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ea78rt",
+      "front": "por el momento",
+      "back": "im Moment / vorerst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ea2k2n",
+      "front": "población",
+      "back": "Bevölkerung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ea8nvf",
+      "front": "reciente",
+      "back": "kürzlich / neu / jüngst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909eac0g4",
+      "front": "dañar",
+      "back": "beschädigen / schädigen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ebeq7l",
+      "front": "escapar",
+      "back": "entkommen / fliehen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ecb2zr",
+      "front": "causar",
+      "back": "verursachen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ecc3mv",
+      "front": "mundial",
+      "back": "weltweit / welt-",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909eca1t5",
+      "front": "daño",
+      "back": "Schaden",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ec8fr9",
+      "front": "causa",
+      "back": "Ursache / Grund",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909echs1i",
+      "front": "título",
+      "back": "Titel",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ecryqt",
+      "front": "silenciosamente",
+      "back": "still / leise / lautlos",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ecmdq9",
+      "front": "curioso",
+      "back": "neugierig / kurios",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mt6909ec1s98",
+      "front": "silencioso",
+      "back": "still / ruhig / leise",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-23"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-23"
         }
       }
     }
