@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:27:37.871Z",
+  "updatedAt": "2026-08-23T20:28:37.804Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -127,8 +127,8 @@
       "back": "fangen, schnappen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -172,8 +172,8 @@
       "back": "Opfer",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -652,8 +652,8 @@
       "back": "national",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -877,8 +877,8 @@
       "back": "Richter",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -967,8 +967,8 @@
       "back": "Feuer",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1327,8 +1327,8 @@
       "back": "entkommen / fliehen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1687,8 +1687,8 @@
       "back": "hispanisch",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1762,8 +1762,8 @@
       "back": "Kapitel",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
