@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:26:36.537Z",
+  "updatedAt": "2026-08-23T20:27:37.871Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -307,8 +307,8 @@
       "back": "sich verstecken",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1432,8 +1432,8 @@
       "back": "neugierig / kurios",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1717,8 +1717,8 @@
       "back": "Autobiografie",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1777,8 +1777,8 @@
       "back": "Stadtrand / Außenbezirke",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
