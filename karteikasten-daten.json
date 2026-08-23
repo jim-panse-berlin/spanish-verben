@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T18:57:54.683Z",
+  "updatedAt": "2026-08-23T18:58:22.815Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -397,8 +397,8 @@
       "back": "Meditation",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -412,8 +412,8 @@
       "back": "pro Tag",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -682,8 +682,8 @@
       "back": "Lateinamerika",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-11"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -772,8 +772,8 @@
       "back": "legal, gesetzlich",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -907,8 +907,8 @@
       "back": "Wahlkampf, politische Kampagne",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -952,8 +952,8 @@
       "back": "Muslim",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
