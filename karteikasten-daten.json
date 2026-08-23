@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:29:44.072Z",
+  "updatedAt": "2026-08-23T20:31:18.666Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -607,8 +607,8 @@
       "back": "Bonbon, Karamell",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -1027,8 +1027,8 @@
       "back": "Christ",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
