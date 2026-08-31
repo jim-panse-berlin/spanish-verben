@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:33:02.875Z",
+  "updatedAt": "2026-08-31T08:34:44.907Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -1888,6 +1888,321 @@
         "dees": {
           "box": 1,
           "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0b1py",
+      "front": "progreso",
+      "back": "Fortschritt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0j8o5",
+      "front": "punto de vista",
+      "back": "Standpunkt / Sichtweise",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0gyi2",
+      "front": "ventaja",
+      "back": "Vorteil",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0poyq",
+      "front": "sentido",
+      "back": "Sinn / Bedeutung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa04lqj",
+      "front": "único",
+      "back": "einzig / einzigartig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0u7jo",
+      "front": "obvio",
+      "back": "offensichtlich / klar",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0ti6m",
+      "front": "importancia",
+      "back": "Bedeutung / Wichtigkeit",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0ria3",
+      "front": "distinto",
+      "back": "verschieden / anders",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0x8e0",
+      "front": "descripción",
+      "back": "Beschreibung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1nqm2",
+      "front": "oportunidad",
+      "back": "Gelegenheit / Chance",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1ljq1",
+      "front": "personal",
+      "back": "persönlich / Personal",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1xx0x",
+      "front": "enfermarse",
+      "back": "krank werden",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1q83g",
+      "front": "análisis de sangre",
+      "back": "Blutuntersuchung / Bluttest",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa18eth",
+      "front": "quemarse",
+      "back": "sich verbrennen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1hihc",
+      "front": "corrijo",
+      "back": "ich korrigiere",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1ugas",
+      "front": "traducción",
+      "back": "Übersetzung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1pw4t",
+      "front": "corregir",
+      "back": "korrigieren / verbessern",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1fqox",
+      "front": "contenido",
+      "back": "Inhalt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1rf8r",
+      "front": "repaso",
+      "back": "Wiederholung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1dq49",
+      "front": "frase",
+      "back": "Satz / Redewendung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1tyn8",
+      "front": "significado",
+      "back": "Bedeutung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
         }
       }
     }
