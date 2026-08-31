@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T08:34:44.907Z",
+  "updatedAt": "2026-08-31T08:35:34.383Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -142,8 +142,8 @@
       "back": "gewalttätig, gewaltsam",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-09-07"
         },
         "dees": {
           "box": 1,
@@ -757,8 +757,8 @@
       "back": "Bildung, Erziehung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-09-04"
         },
         "dees": {
           "box": 1,
@@ -1178,7 +1178,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-23"
+          "due": "2026-08-31"
         },
         "dees": {
           "box": 1,
@@ -1507,8 +1507,8 @@
       "back": "Romanze / Liebesgeschichte",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-09-04"
         },
         "dees": {
           "box": 1,
