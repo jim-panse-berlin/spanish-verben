@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:14:15.543Z",
+  "updatedAt": "2026-09-02T07:14:55.617Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -52,8 +52,8 @@
       "back": "schauen Sie! / sehen Sie!",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-09-09"
         },
         "dees": {
           "box": 1,
@@ -83,7 +83,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-23"
+          "due": "2026-09-02"
         },
         "dees": {
           "box": 1,
@@ -337,8 +337,8 @@
       "back": "pro Woche",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-09-09"
         },
         "dees": {
           "box": 1,
@@ -863,7 +863,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-23"
+          "due": "2026-09-02"
         },
         "dees": {
           "box": 1,
@@ -1057,8 +1057,8 @@
       "back": "Tempel",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-09-04"
         },
         "dees": {
           "box": 1,
@@ -1387,8 +1387,8 @@
       "back": "Ursache / Grund",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-09-06"
         },
         "dees": {
           "box": 1,
@@ -1672,8 +1672,8 @@
       "back": "erstellen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-09-06"
         },
         "dees": {
           "box": 1,
