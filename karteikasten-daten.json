@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:41:58.932Z",
+  "updatedAt": "2026-09-11T07:43:02.300Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -67,8 +67,8 @@
       "back": "innen, drinnen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-09-15"
         },
         "dees": {
           "box": 1,
@@ -367,8 +367,8 @@
       "back": "Runde; Rückkehr; Umdrehung; Tour (je nach Kontext)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-09-11"
         },
         "dees": {
           "box": 1,
@@ -397,8 +397,8 @@
       "back": "Meditation",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-09-18"
         },
         "dees": {
           "box": 1,
@@ -637,8 +637,8 @@
       "back": "puerto-ricanisch; Puerto-Ricaner/-in",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-09-13"
         },
         "dees": {
           "box": 1,
@@ -832,8 +832,8 @@
       "back": "Bürger",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-09-13"
         },
         "dees": {
           "box": 1,
@@ -863,7 +863,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-09"
+          "due": "2026-09-11"
         },
         "dees": {
           "box": 1,
@@ -1192,8 +1192,8 @@
       "back": "Religion",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-09-13"
         },
         "dees": {
           "box": 1,
@@ -1267,8 +1267,8 @@
       "back": "im Moment / vorerst",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-09-13"
         },
         "dees": {
           "box": 1,
@@ -1568,7 +1568,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-23"
+          "due": "2026-09-11"
         },
         "dees": {
           "box": 1,
@@ -1582,8 +1582,8 @@
       "back": "Experte / fachkundig",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-09-13"
         },
         "dees": {
           "box": 1,
@@ -1657,8 +1657,8 @@
       "back": "installieren",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-09-13"
         },
         "dees": {
           "box": 1,
@@ -1852,8 +1852,8 @@
       "back": "übermorgen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-09-13"
         },
         "dees": {
           "box": 1,
