@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:24:31.252Z",
+  "updatedAt": "2026-09-29T17:25:29.721Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -607,8 +607,8 @@
       "back": "Bonbon, Karamell",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1072,8 +1072,8 @@
       "back": "religiös; Ordensmitglied",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1432,8 +1432,8 @@
       "back": "neugierig / kurios",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -2062,8 +2062,8 @@
       "back": "krank werden",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
