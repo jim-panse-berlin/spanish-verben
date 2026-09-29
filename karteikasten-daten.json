@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:16:06.503Z",
+  "updatedAt": "2026-09-29T17:17:06.683Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -52,8 +52,8 @@
       "back": "schauen Sie! / sehen Sie!",
       "dirs": {
         "esde": {
-          "box": 4,
-          "due": "2026-09-09"
+          "box": 5,
+          "due": "2026-10-13"
         },
         "dees": {
           "box": 1,
@@ -517,8 +517,8 @@
       "back": "eingeschlafen; schlafend (Partizip von dormir)",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-29"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -727,8 +727,8 @@
       "back": "sich treffen, sich versammeln",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -787,8 +787,8 @@
       "back": "ungerecht",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1357,8 +1357,8 @@
       "back": "weltweit / welt-",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1642,8 +1642,8 @@
       "back": "verbinden",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1657,8 +1657,8 @@
       "back": "installieren",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-04"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
