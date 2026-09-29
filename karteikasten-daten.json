@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:20:08.819Z",
+  "updatedAt": "2026-09-29T17:24:31.252Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -1087,8 +1087,8 @@
       "back": "Geruch",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1282,8 +1282,8 @@
       "back": "Bevölkerung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -1987,8 +1987,8 @@
       "back": "Bedeutung / Wichtigkeit",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
