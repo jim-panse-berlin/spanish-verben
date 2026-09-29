@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:10:30.214Z",
+  "updatedAt": "2026-09-29T17:11:34.620Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -7,8 +7,8 @@
       "back": "dreiundzwanzig",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -322,8 +322,8 @@
       "back": "Verbrechen",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -367,8 +367,8 @@
       "back": "Runde; Rückkehr; Umdrehung; Tour (je nach Kontext)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -667,8 +667,8 @@
       "back": "ältere Person",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -847,8 +847,8 @@
       "back": "Gesetz",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -937,8 +937,8 @@
       "back": "wirtschaftlich; ökonomisch; preiswert (je nach Kontext)",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-09-06"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1492,8 +1492,8 @@
       "back": "Kuss",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -1612,8 +1612,8 @@
       "back": "sich verständigen / kommunizieren",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -2182,8 +2182,8 @@
       "back": "Satz / Redewendung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
