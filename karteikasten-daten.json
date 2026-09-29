@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:25:29.721Z",
+  "updatedAt": "2026-09-29T17:29:24.145Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -412,8 +412,8 @@
       "back": "pro Tag",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1342,8 +1342,8 @@
       "back": "verursachen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1807,8 +1807,8 @@
       "back": "Vergnügungspark",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -2197,8 +2197,8 @@
       "back": "Bedeutung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-29"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
