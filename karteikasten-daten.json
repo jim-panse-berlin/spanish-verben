@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:45:04.644Z",
+  "updatedAt": "2026-09-29T08:26:15.322Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -7,8 +7,8 @@
       "back": "dreiundzwanzig",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -22,8 +22,8 @@
       "back": "vierundzwanzig",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -37,8 +37,8 @@
       "back": "fünfundzwanzig",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-11"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -52,8 +52,8 @@
       "back": "schauen Sie! / sehen Sie!",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-09-15"
+          "box": 4,
+          "due": "2026-09-09"
         },
         "dees": {
           "box": 1,
@@ -68,7 +68,7 @@
       "dirs": {
         "esde": {
           "box": 3,
-          "due": "2026-09-15"
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -82,8 +82,8 @@
       "back": "hierher, hier",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-09-02"
         },
         "dees": {
           "box": 1,
@@ -97,8 +97,8 @@
       "back": "aus Metall",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -127,8 +127,8 @@
       "back": "fangen, schnappen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -143,7 +143,7 @@
       "dirs": {
         "esde": {
           "box": 4,
-          "due": "2026-09-18"
+          "due": "2026-09-07"
         },
         "dees": {
           "box": 1,
@@ -158,7 +158,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-09-02"
         },
         "dees": {
           "box": 1,
@@ -172,8 +172,8 @@
       "back": "Opfer",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -187,8 +187,8 @@
       "back": "Mütze",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -218,7 +218,7 @@
       "dirs": {
         "esde": {
           "box": 3,
-          "due": "2026-09-15"
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -232,8 +232,8 @@
       "back": "Kiosk",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -262,8 +262,8 @@
       "back": "täuschen, betrügen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-11"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -277,8 +277,8 @@
       "back": "Detektiv",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 4,
+          "due": "2026-09-09"
         },
         "dees": {
           "box": 1,
@@ -308,7 +308,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-08-10"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -322,8 +322,8 @@
       "back": "Verbrechen",
       "dirs": {
         "esde": {
-          "box": 4,
-          "due": "2026-09-18"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -337,8 +337,8 @@
       "back": "pro Woche",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-09-09"
         },
         "dees": {
           "box": 1,
@@ -353,7 +353,7 @@
       "dirs": {
         "esde": {
           "box": 3,
-          "due": "2026-09-15"
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -367,8 +367,8 @@
       "back": "Runde; Rückkehr; Umdrehung; Tour (je nach Kontext)",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-11"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -383,7 +383,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -397,8 +397,8 @@
       "back": "Meditation",
       "dirs": {
         "esde": {
-          "box": 4,
-          "due": "2026-09-18"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -427,8 +427,8 @@
       "back": "Therapie",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-09-15"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -443,7 +443,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -458,7 +458,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -473,7 +473,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-09-02"
         },
         "dees": {
           "box": 1,
@@ -488,7 +488,7 @@
       "dirs": {
         "esde": {
           "box": 3,
-          "due": "2026-09-15"
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -502,8 +502,8 @@
       "back": "Grapefruit",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -517,8 +517,8 @@
       "back": "eingeschlafen; schlafend (Partizip von dormir)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -532,8 +532,8 @@
       "back": "Knochen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-11"
+          "box": 2,
+          "due": "2026-08-10"
         },
         "dees": {
           "box": 1,
@@ -577,8 +577,8 @@
       "back": "vor Kurzem",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -592,8 +592,8 @@
       "back": "Blumenstrauß; Zweig; Bereich/Fachgebiet (je nach Kontext)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -607,8 +607,8 @@
       "back": "Bonbon, Karamell",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-08-27"
         },
         "dees": {
           "box": 1,
@@ -622,8 +622,8 @@
       "back": "haben; Hilfsverb („haben\"), auch „es gibt\" (je nach Verwendung)",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -638,7 +638,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -653,7 +653,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -697,8 +697,8 @@
       "back": "international",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-09-04"
         },
         "dees": {
           "box": 1,
@@ -713,7 +713,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -727,8 +727,8 @@
       "back": "sich treffen, sich versammeln",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -742,8 +742,8 @@
       "back": "Sozialversicherung",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-09-15"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -757,8 +757,8 @@
       "back": "Bildung, Erziehung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 3,
+          "due": "2026-09-04"
         },
         "dees": {
           "box": 1,
@@ -772,8 +772,8 @@
       "back": "legal, gesetzlich",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-09-15"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -787,8 +787,8 @@
       "back": "ungerecht",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -803,7 +803,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -818,7 +818,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -832,8 +832,8 @@
       "back": "Bürger",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-13"
+          "box": 1,
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -848,7 +848,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -863,7 +863,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-09-02"
         },
         "dees": {
           "box": 1,
@@ -878,7 +878,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -937,8 +937,8 @@
       "back": "wirtschaftlich; ökonomisch; preiswert (je nach Kontext)",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 3,
+          "due": "2026-09-06"
         },
         "dees": {
           "box": 1,
@@ -968,7 +968,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -982,8 +982,8 @@
       "back": "Buddhist",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -998,7 +998,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-09"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1013,7 +1013,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-09"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1027,8 +1027,8 @@
       "back": "Christ",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1042,8 +1042,8 @@
       "back": "Messe (Gottesdienst)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-13"
+          "box": 1,
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1058,7 +1058,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-09-04"
         },
         "dees": {
           "box": 1,
@@ -1087,8 +1087,8 @@
       "back": "Geruch",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1102,8 +1102,8 @@
       "back": "Inder; indianisch/Indianer",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1118,7 +1118,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1133,7 +1133,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1147,8 +1147,8 @@
       "back": "Moschee",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1162,8 +1162,8 @@
       "back": "aufbauen, zusammenbauen; bewaffnen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-09"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1178,7 +1178,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-09"
+          "due": "2026-08-31"
         },
         "dees": {
           "box": 1,
@@ -1193,7 +1193,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1207,8 +1207,8 @@
       "back": "derzeit / momentan",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1222,8 +1222,8 @@
       "back": "Situation / Lage",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1237,8 +1237,8 @@
       "back": "insgesamt / gesamt / total",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1252,8 +1252,8 @@
       "back": "aktuell / derzeitige(r)",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1268,7 +1268,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1283,7 +1283,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1297,8 +1297,8 @@
       "back": "kürzlich / neu / jüngst",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-13"
+          "box": 3,
+          "due": "2026-09-06"
         },
         "dees": {
           "box": 1,
@@ -1312,8 +1312,8 @@
       "back": "beschädigen / schädigen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1327,8 +1327,8 @@
       "back": "entkommen / fliehen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1342,8 +1342,8 @@
       "back": "verursachen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1357,8 +1357,8 @@
       "back": "weltweit / welt-",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1387,8 +1387,8 @@
       "back": "Ursache / Grund",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-13"
+          "box": 3,
+          "due": "2026-09-06"
         },
         "dees": {
           "box": 1,
@@ -1403,7 +1403,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1417,8 +1417,8 @@
       "back": "still / leise / lautlos",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-13"
+          "box": 1,
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1432,8 +1432,8 @@
       "back": "neugierig / kurios",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1447,8 +1447,8 @@
       "back": "still / ruhig / leise",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1462,8 +1462,8 @@
       "back": "es gab",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1493,7 +1493,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1507,8 +1507,8 @@
       "back": "Romanze / Liebesgeschichte",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 3,
+          "due": "2026-09-04"
         },
         "dees": {
           "box": 1,
@@ -1522,8 +1522,8 @@
       "back": "Humor",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-13"
+          "box": 1,
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1568,7 +1568,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-11"
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1583,7 +1583,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1598,7 +1598,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1612,8 +1612,8 @@
       "back": "sich verständigen / kommunizieren",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1627,8 +1627,8 @@
       "back": "chatten",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-13"
+          "box": 1,
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1642,8 +1642,8 @@
       "back": "verbinden",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1658,7 +1658,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-09-04"
         },
         "dees": {
           "box": 1,
@@ -1672,8 +1672,8 @@
       "back": "erstellen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 3,
+          "due": "2026-09-06"
         },
         "dees": {
           "box": 1,
@@ -1688,7 +1688,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1718,7 +1718,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1732,8 +1732,8 @@
       "back": "Text",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-13"
+          "box": 1,
+          "due": "2026-08-23"
         },
         "dees": {
           "box": 1,
@@ -1762,8 +1762,8 @@
       "back": "Kapitel",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1778,7 +1778,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1793,7 +1793,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-23"
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -1807,8 +1807,8 @@
       "back": "Vergnügungspark",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1822,8 +1822,8 @@
       "back": "Mehrheit",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1837,8 +1837,8 @@
       "back": "Obstladen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1853,7 +1853,7 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1867,8 +1867,8 @@
       "back": "jährlich",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
@@ -1883,11 +1883,326 @@
       "dirs": {
         "esde": {
           "box": 2,
-          "due": "2026-09-13"
+          "due": "2026-08-25"
         },
         "dees": {
           "box": 1,
           "due": "2026-08-23"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0b1py",
+      "front": "progreso",
+      "back": "Fortschritt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0j8o5",
+      "front": "punto de vista",
+      "back": "Standpunkt / Sichtweise",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0gyi2",
+      "front": "ventaja",
+      "back": "Vorteil",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0poyq",
+      "front": "sentido",
+      "back": "Sinn / Bedeutung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa04lqj",
+      "front": "único",
+      "back": "einzig / einzigartig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0u7jo",
+      "front": "obvio",
+      "back": "offensichtlich / klar",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0ti6m",
+      "front": "importancia",
+      "back": "Bedeutung / Wichtigkeit",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0ria3",
+      "front": "distinto",
+      "back": "verschieden / anders",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa0x8e0",
+      "front": "descripción",
+      "back": "Beschreibung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1nqm2",
+      "front": "oportunidad",
+      "back": "Gelegenheit / Chance",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1ljq1",
+      "front": "personal",
+      "back": "persönlich / Personal",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1xx0x",
+      "front": "enfermarse",
+      "back": "krank werden",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1q83g",
+      "front": "análisis de sangre",
+      "back": "Blutuntersuchung / Bluttest",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa18eth",
+      "front": "quemarse",
+      "back": "sich verbrennen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1hihc",
+      "front": "corrijo",
+      "back": "ich korrigiere",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1ugas",
+      "front": "traducción",
+      "back": "Übersetzung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1pw4t",
+      "front": "corregir",
+      "back": "korrigieren / verbessern",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1fqox",
+      "front": "contenido",
+      "back": "Inhalt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1rf8r",
+      "front": "repaso",
+      "back": "Wiederholung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1dq49",
+      "front": "frase",
+      "back": "Satz / Redewendung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "mtgzfwa1tyn8",
+      "front": "significado",
+      "back": "Bedeutung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-08-31"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-08-31"
         }
       }
     }
