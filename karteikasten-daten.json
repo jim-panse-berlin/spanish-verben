@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:09:05.657Z",
+  "updatedAt": "2026-09-29T17:10:30.214Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -352,8 +352,8 @@
       "back": "Basketball",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -427,8 +427,8 @@
       "back": "Therapie",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -487,8 +487,8 @@
       "back": "Sonnenbrille",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1207,8 +1207,8 @@
       "back": "derzeit / momentan",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1582,8 +1582,8 @@
       "back": "Experte / fachkundig",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1822,8 +1822,8 @@
       "back": "Mehrheit",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -2108,7 +2108,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-31"
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
