@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:05:55.986Z",
+  "updatedAt": "2026-09-29T17:06:56.029Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -67,8 +67,8 @@
       "back": "innen, drinnen",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -532,8 +532,8 @@
       "back": "Knochen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -652,8 +652,8 @@
       "back": "national",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -877,8 +877,8 @@
       "back": "Richter",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1027,8 +1027,8 @@
       "back": "Christ",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1057,8 +1057,8 @@
       "back": "Tempel",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-04"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1117,8 +1117,8 @@
       "back": "Synagoge",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1297,8 +1297,8 @@
       "back": "kürzlich / neu / jüngst",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-09-06"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1462,8 +1462,8 @@
       "back": "es gab",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-29"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -1627,8 +1627,8 @@
       "back": "chatten",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -1867,8 +1867,8 @@
       "back": "jährlich",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
