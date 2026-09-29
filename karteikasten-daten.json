@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:18:07.350Z",
+  "updatedAt": "2026-09-29T17:19:08.595Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -112,8 +112,8 @@
       "back": "Vorsicht! / Sorgfalt",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -232,8 +232,8 @@
       "back": "Kiosk",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -262,8 +262,8 @@
       "back": "täuschen, betrügen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -382,8 +382,8 @@
       "back": "tauchen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-29"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -1327,8 +1327,8 @@
       "back": "entkommen / fliehen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1537,8 +1537,8 @@
       "back": "Umarmung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -1897,8 +1897,8 @@
       "back": "Fortschritt",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -2168,7 +2168,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-31"
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
