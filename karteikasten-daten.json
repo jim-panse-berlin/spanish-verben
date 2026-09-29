@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:06:56.029Z",
+  "updatedAt": "2026-09-29T17:07:59.247Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -83,7 +83,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-02"
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -277,8 +277,8 @@
       "back": "Detektiv",
       "dirs": {
         "esde": {
-          "box": 4,
-          "due": "2026-09-09"
+          "box": 5,
+          "due": "2026-10-13"
         },
         "dees": {
           "box": 1,
@@ -547,8 +547,8 @@
       "back": "du kamst (Vergangenheit von venir)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -682,8 +682,8 @@
       "back": "Lateinamerika",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -907,8 +907,8 @@
       "back": "Wahlkampf, politische Kampagne",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -952,8 +952,8 @@
       "back": "Muslim",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1192,8 +1192,8 @@
       "back": "Religion",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1387,8 +1387,8 @@
       "back": "Ursache / Grund",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-09-06"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1597,8 +1597,8 @@
       "back": "Mailbox",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1942,8 +1942,8 @@
       "back": "Sinn / Bedeutung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
