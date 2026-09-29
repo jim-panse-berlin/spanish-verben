@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:07:59.247Z",
+  "updatedAt": "2026-09-29T17:09:05.657Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -22,8 +22,8 @@
       "back": "vierundzwanzig",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -97,8 +97,8 @@
       "back": "aus Metall",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -247,8 +247,8 @@
       "back": "schlagen, treffen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -307,8 +307,8 @@
       "back": "sich verstecken",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -697,8 +697,8 @@
       "back": "international",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-09-04"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1147,8 +1147,8 @@
       "back": "Moschee",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1672,8 +1672,8 @@
       "back": "erstellen",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-09-06"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1928,7 +1928,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-31"
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -1957,8 +1957,8 @@
       "back": "einzig / einzigartig",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -2152,8 +2152,8 @@
       "back": "Inhalt",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
