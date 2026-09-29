@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:29:24.145Z",
+  "updatedAt": "2026-09-29T17:30:23.783Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -562,8 +562,8 @@
       "back": "Muskel",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-10"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -592,8 +592,8 @@
       "back": "Blumenstrauß; Zweig; Bereich/Fachgebiet (je nach Kontext)",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -1177,8 +1177,8 @@
       "back": "Bühne; Szenario",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -1852,8 +1852,8 @@
       "back": "übermorgen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-03"
         },
         "dees": {
           "box": 1,
@@ -1882,8 +1882,8 @@
       "back": "Zirkus",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -2137,8 +2137,8 @@
       "back": "korrigieren / verbessern",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
