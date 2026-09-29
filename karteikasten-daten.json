@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:13:45.688Z",
+  "updatedAt": "2026-09-29T17:14:55.870Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -458,7 +458,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-23"
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -517,8 +517,8 @@
       "back": "eingeschlafen; schlafend (Partizip von dormir)",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 1,
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
@@ -577,8 +577,8 @@
       "back": "vor Kurzem",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-08-27"
+          "box": 4,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1477,8 +1477,8 @@
       "back": "im / in dem",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-23"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -2107,8 +2107,8 @@
       "back": "ich korrigiere",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-29"
+          "box": 2,
+          "due": "2026-10-01"
         },
         "dees": {
           "box": 1,
@@ -2123,7 +2123,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-31"
+          "due": "2026-09-29"
         },
         "dees": {
           "box": 1,
