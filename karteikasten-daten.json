@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:09:21.881Z",
+  "updatedAt": "2026-10-02T16:11:45.943Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -67,8 +67,8 @@
       "back": "innen, drinnen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 1,
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -1162,7 +1162,7 @@
       "back": "aufbauen, zusammenbauen; bewaffnen",
       "dirs": {
         "esde": {
-          "box": 2,
+          "box": 1,
           "due": "2026-10-02"
         },
         "dees": {
