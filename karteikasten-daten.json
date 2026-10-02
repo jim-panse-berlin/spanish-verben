@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:11:45.943Z",
+  "updatedAt": "2026-10-02T16:14:02.664Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -2122,8 +2122,8 @@
       "back": "Übersetzung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
