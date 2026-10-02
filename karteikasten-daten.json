@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:56:16.248Z",
+  "updatedAt": "2026-10-02T15:57:18.792Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -82,8 +82,8 @@
       "back": "hierher, hier",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-02"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -113,7 +113,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-30"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -203,7 +203,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-29"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -248,7 +248,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-30"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -382,8 +382,8 @@
       "back": "tauchen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 1,
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -517,8 +517,8 @@
       "back": "eingeschlafen; schlafend (Partizip von dormir)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -547,8 +547,8 @@
       "back": "du kamst (Vergangenheit von venir)",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-30"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -1568,7 +1568,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-08-23"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -2017,8 +2017,8 @@
       "back": "Beschreibung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -2182,8 +2182,8 @@
       "back": "Satz / Redewendung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
