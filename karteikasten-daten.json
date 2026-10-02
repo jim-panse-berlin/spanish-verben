@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:57:18.792Z",
+  "updatedAt": "2026-10-02T15:58:21.423Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -128,7 +128,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-29"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -247,8 +247,8 @@
       "back": "schlagen, treffen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -502,8 +502,8 @@
       "back": "Grapefruit",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-30"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -713,7 +713,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-30"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -892,8 +892,8 @@
       "back": "eine Meinung haben, seine Meinung äußern",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-02"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1252,8 +1252,8 @@
       "back": "aktuell / derzeitige(r)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1417,8 +1417,8 @@
       "back": "still / leise / lautlos",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1553,7 +1553,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-30"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -1972,8 +1972,8 @@
       "back": "offensichtlich / klar",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-08-31"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -2092,8 +2092,8 @@
       "back": "sich verbrennen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-09-30"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -2197,8 +2197,8 @@
       "back": "Bedeutung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
