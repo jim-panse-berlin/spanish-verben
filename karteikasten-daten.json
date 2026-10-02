@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:07:00.966Z",
+  "updatedAt": "2026-10-02T16:08:03.181Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -127,8 +127,8 @@
       "back": "fangen, schnappen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -157,8 +157,8 @@
       "back": "wert sein, gelten",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -532,8 +532,8 @@
       "back": "Knochen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-02"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -712,8 +712,8 @@
       "back": "Armee, Heer",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -2107,8 +2107,8 @@
       "back": "ich korrigiere",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -2167,8 +2167,8 @@
       "back": "Wiederholung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
