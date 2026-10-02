@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:00:30.448Z",
+  "updatedAt": "2026-10-02T16:01:32.580Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -803,7 +803,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-30"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -922,8 +922,8 @@
       "back": "Richterin",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-02"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -998,7 +998,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-30"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -1042,8 +1042,8 @@
       "back": "Messe (Gottesdienst)",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -1312,8 +1312,8 @@
       "back": "beschädigen / schädigen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -1627,8 +1627,8 @@
       "back": "chatten",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1702,8 +1702,8 @@
       "back": "lernen / studieren",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1732,8 +1732,8 @@
       "back": "Text",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1777,8 +1777,8 @@
       "back": "Stadtrand / Außenbezirke",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-08-25"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -2047,8 +2047,8 @@
       "back": "persönlich / Personal",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
