@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:04:44.903Z",
+  "updatedAt": "2026-10-02T16:05:46.868Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -667,8 +667,8 @@
       "back": "ältere Person",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1177,8 +1177,8 @@
       "back": "Bühne; Szenario",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -1537,8 +1537,8 @@
       "back": "Umarmung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1567,8 +1567,8 @@
       "back": "Werbung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
