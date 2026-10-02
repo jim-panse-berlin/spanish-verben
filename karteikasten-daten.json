@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:02:33.207Z",
+  "updatedAt": "2026-10-02T16:03:33.122Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -158,7 +158,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-09-30"
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -592,8 +592,8 @@
       "back": "Blumenstrauß; Zweig; Bereich/Fachgebiet (je nach Kontext)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-02"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
@@ -1177,8 +1177,8 @@
       "back": "Bühne; Szenario",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 1,
+          "due": "2026-10-02"
         },
         "dees": {
           "box": 1,
@@ -1282,8 +1282,8 @@
       "back": "Bevölkerung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-06"
         },
         "dees": {
           "box": 1,
