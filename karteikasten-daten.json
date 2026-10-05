@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T08:21:28.220Z",
+  "updatedAt": "2026-10-05T08:22:32.903Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -3005,6 +3005,381 @@
       "id": "muuzdmvvh5w0",
       "front": "distancia",
       "back": "Entfernung, Abstand, Distanz",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamxlw3b",
+      "front": "material",
+      "back": "Material, Werkstoff",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamx4603",
+      "front": "cobrar",
+      "back": "kassieren, berechnen; Geld bekommen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamx1mtq",
+      "front": "sección",
+      "back": "Abschnitt, Bereich, Abteilung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamxqknm",
+      "front": "renovar",
+      "back": "erneuern, verlängern, renovieren",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamxrf7d",
+      "front": "electrodoméstico",
+      "back": "Haushaltsgerät, Elektrogerät",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamxx1hn",
+      "front": "entrega",
+      "back": "Lieferung, Übergabe",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamx720m",
+      "front": "por ciento",
+      "back": "Prozent",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamxzcvk",
+      "front": "botón",
+      "back": "Knopf, Taste",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamxd9av",
+      "front": "aire acondicionado",
+      "back": "Klimaanlage",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamx0p6m",
+      "front": "adicional",
+      "back": "zusätzlich, zusätzliches",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamx2a6u",
+      "front": "mesa de noche",
+      "back": "Nachttisch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzeamx9miz",
+      "front": "comedor",
+      "back": "Esszimmer, Speisesaal",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0sl9m7k",
+      "front": "competir",
+      "back": "konkurrieren, sich messen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0sl9n0o",
+      "front": "u",
+      "back": "oder",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0sliaf0",
+      "front": "preferir",
+      "back": "bevorzugen, lieber mögen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0sl2ojv",
+      "front": "imaginar",
+      "back": "sich vorstellen, imaginieren",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0slegp5",
+      "front": "en mi lugar",
+      "back": "an meiner Stelle",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0slq5ds",
+      "front": "éxito",
+      "back": "Erfolg",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0slby47",
+      "front": "planeta",
+      "back": "Planet",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0slj2y9",
+      "front": "divertirse",
+      "back": "sich amüsieren, Spaß haben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0slro5a",
+      "front": "sacar",
+      "back": "herausnehmen, holen; bekommen/erzielen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0slh69e",
+      "front": "maquillarse",
+      "back": "sich schminken",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0sl3b6e",
+      "front": "al mismo tiempo",
+      "back": "gleichzeitig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0slur28",
+      "front": "más que",
+      "back": "mehr als",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzf0slyf6m",
+      "front": "menos que",
+      "back": "weniger als",
       "dirs": {
         "esde": {
           "box": 1,
