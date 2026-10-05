@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:39:16.534Z",
+  "updatedAt": "2026-10-05T17:40:17.673Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -37,8 +37,8 @@
       "back": "fünfundzwanzig",
       "dirs": {
         "esde": {
-          "box": 4,
-          "due": "2026-10-12"
+          "box": 3,
+          "due": "2026-10-04"
         },
         "dees": {
           "box": 1,
@@ -1822,8 +1822,8 @@
       "back": "Mehrheit",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1972,8 +1972,8 @@
       "back": "offensichtlich / klar",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-04"
+          "box": 3,
+          "due": "2026-10-09"
         },
         "dees": {
           "box": 1,
@@ -3187,8 +3187,8 @@
       "back": "Esszimmer, Speisesaal",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
