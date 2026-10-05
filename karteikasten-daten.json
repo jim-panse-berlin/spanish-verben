@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:14:02.664Z",
+  "updatedAt": "2026-10-05T06:46:28.482Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -247,8 +247,8 @@
       "back": "schlagen, treffen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-04"
+          "box": 3,
+          "due": "2026-10-09"
         },
         "dees": {
           "box": 1,
