@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T06:47:27.624Z",
+  "updatedAt": "2026-10-05T08:20:00.619Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -2203,6 +2203,201 @@
         "dees": {
           "box": 1,
           "due": "2026-08-31"
+        }
+      }
+    },
+    {
+      "id": "muuzbradg4db",
+      "front": "mostaza",
+      "back": "Senf",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbraeq9ca",
+      "front": "déme",
+      "back": "geben Sie mir",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbraf0w55",
+      "front": "batir",
+      "back": "schlagen / verrühren",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbraf0lxy",
+      "front": "freír",
+      "back": "braten / frittieren",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbrafnetg",
+      "front": "cereza",
+      "back": "Kirsche",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbraf1bxh",
+      "front": "compra",
+      "back": "Einkauf",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbrafy9jt",
+      "front": "mezcla",
+      "back": "Mischung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbrafocea",
+      "front": "libra",
+      "back": "Pfund",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbrafbou5",
+      "front": "caja registradora",
+      "back": "Registrierkasse",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbrafwxnq",
+      "front": "de talla única",
+      "back": "Einheitsgröße",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbraffhr6",
+      "front": "tela",
+      "back": "Stoff",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbraf34oh",
+      "front": "apretado",
+      "back": "eng / fest",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzbraf3tyk",
+      "front": "algodón",
+      "back": "Baumwolle",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
         }
       }
     }
