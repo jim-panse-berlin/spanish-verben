@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T06:46:28.482Z",
+  "updatedAt": "2026-10-05T06:47:27.624Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -457,8 +457,8 @@
       "back": "ich kam (Vergangenheit von venir)",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-04"
+          "box": 3,
+          "due": "2026-10-09"
         },
         "dees": {
           "box": 1,
@@ -652,8 +652,8 @@
       "back": "national",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -697,8 +697,8 @@
       "back": "international",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -803,7 +803,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-10-02"
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -832,8 +832,8 @@
       "back": "Bürger",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-04"
+          "box": 3,
+          "due": "2026-10-09"
         },
         "dees": {
           "box": 1,
@@ -1013,7 +1013,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-10-02"
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -1207,8 +1207,8 @@
       "back": "derzeit / momentan",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1237,8 +1237,8 @@
       "back": "insgesamt / gesamt / total",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1567,8 +1567,8 @@
       "back": "Werbung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-04"
+          "box": 1,
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -1612,8 +1612,8 @@
       "back": "sich verständigen / kommunizieren",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1657,8 +1657,8 @@
       "back": "installieren",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1852,8 +1852,8 @@
       "back": "übermorgen",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1928,7 +1928,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-10-02"
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
