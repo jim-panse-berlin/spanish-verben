@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T08:20:00.619Z",
+  "updatedAt": "2026-10-05T08:21:28.220Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -2390,6 +2390,621 @@
       "id": "muuzbraf3tyk",
       "front": "algodón",
       "back": "Baumwolle",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdu0ta",
+      "front": "hables",
+      "back": "(dass) du sprichst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdwls0",
+      "front": "lleves",
+      "back": "(dass) du trägst / mitnimmst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdnbzu",
+      "front": "visites",
+      "back": "(dass) du besuchst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdc6cf",
+      "front": "visa",
+      "back": "Visum",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdunr8",
+      "front": "embajada",
+      "back": "Botschaft",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdru13",
+      "front": "abras",
+      "back": "(dass) du öffnest",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifden3h",
+      "front": "subas",
+      "back": "(dass) du hinaufgehst / steigst / hochlädst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdp8gc",
+      "front": "florero",
+      "back": "Blumenvase",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdf2u8",
+      "front": "bebas",
+      "back": "(dass) du trinkst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdw1ng",
+      "front": "comas",
+      "back": "(dass) du isst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdcbqs",
+      "front": "contaminado",
+      "back": "verschmutzt / kontaminiert",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdt1cu",
+      "front": "compres",
+      "back": "(dass) du kaufst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdb8t2",
+      "front": "lluvias",
+      "back": "Regenfälle",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdxbfy",
+      "front": "viajes",
+      "back": "(dass) du reist",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifdxwwi",
+      "front": "temporada",
+      "back": "Saison / Jahreszeit / Zeitraum",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzcifd5emz",
+      "front": "huracán",
+      "back": "Hurrikan",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6f98q",
+      "front": "salida de emergencia",
+      "back": "Notausgang / Fluchtweg",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6npl5",
+      "front": "desconocido",
+      "back": "unbekannt; Fremder / Unbekannter",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w620s9",
+      "front": "digas",
+      "back": "du sagst / du sollst sagen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6obtd",
+      "front": "vayas",
+      "back": "du gehst / du sollst gehen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6pzoo",
+      "front": "salgas",
+      "back": "du gehst hinaus / du verlässt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6arul",
+      "front": "vengas",
+      "back": "du kommst / du sollst kommen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6gmm9",
+      "front": "galería",
+      "back": "Galerie; überdachter Gang; Einkaufszentrum",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w693ev",
+      "front": "hagas",
+      "back": "du machst / du sollst machen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6qqlw",
+      "front": "pongas",
+      "back": "du stellst/legst; du setzt; du tust",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6qv5v",
+      "front": "frágil",
+      "back": "zerbrechlich; empfindlich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6wtme",
+      "front": "tengas",
+      "back": "du hast / du sollst haben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6t1f4",
+      "front": "des",
+      "back": "du gibst / du sollst geben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w64pjk",
+      "front": "terremoto",
+      "back": "Erdbeben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzd0w6oxa3",
+      "front": "tigre",
+      "back": "Tiger",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvv4x7y",
+      "front": "guiar",
+      "back": "führen, leiten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvv0gbx",
+      "front": "ruina",
+      "back": "Ruine, Verfall",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvvsj60",
+      "front": "agencia",
+      "back": "Agentur, Vermittlungsstelle",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvvtcq4",
+      "front": "itinerario",
+      "back": "Reiseplan, Route, Reiseverlauf",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvvlwfg",
+      "front": "estado",
+      "back": "Staat; Zustand; Bundesstaat",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvvhn9z",
+      "front": "distrito",
+      "back": "Bezirk, Distrikt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvv66xx",
+      "front": "hispanohablante",
+      "back": "spanischsprachig; Spanischsprachige/r",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvvs3xu",
+      "front": "frontera",
+      "back": "Grenze",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvvbeol",
+      "front": "directo",
+      "back": "direkt; unmittelbar",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvv0738",
+      "front": "llegada",
+      "back": "Ankunft",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-05"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "muuzdmvvh5w0",
+      "front": "distancia",
+      "back": "Entfernung, Abstand, Distanz",
       "dirs": {
         "esde": {
           "box": 1,
