@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:40:17.673Z",
+  "updatedAt": "2026-10-05T17:41:24.205Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -67,8 +67,8 @@
       "back": "innen, drinnen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -1132,8 +1132,8 @@
       "back": "Brasilianer; brasilianisch",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1327,8 +1327,8 @@
       "back": "entkommen / fliehen",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1402,8 +1402,8 @@
       "back": "Titel",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -2092,8 +2092,8 @@
       "back": "sich verbrennen",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-04"
+          "box": 1,
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -2587,8 +2587,8 @@
       "back": "Regenfälle",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -2677,8 +2677,8 @@
       "back": "du sagst / du sollst sagen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -2887,8 +2887,8 @@
       "back": "Agentur, Vermittlungsstelle",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -2947,8 +2947,8 @@
       "back": "spanischsprachig; Spanischsprachige/r",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -3052,8 +3052,8 @@
       "back": "Abschnitt, Bereich, Abteilung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -3142,8 +3142,8 @@
       "back": "Klimaanlage",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
