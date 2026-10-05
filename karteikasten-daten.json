@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:43:26.106Z",
+  "updatedAt": "2026-10-05T17:44:36.510Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -113,7 +113,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-10-02"
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -157,8 +157,8 @@
       "back": "wert sein, gelten",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -712,8 +712,8 @@
       "back": "Armee, Heer",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-04"
+          "box": 1,
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -818,7 +818,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-10-02"
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -1147,8 +1147,8 @@
       "back": "Moschee",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 1,
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -1807,8 +1807,8 @@
       "back": "Vergnügungspark",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -2227,8 +2227,8 @@
       "back": "geben Sie mir",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -2302,8 +2302,8 @@
       "back": "Mischung",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -3337,8 +3337,8 @@
       "back": "sich schminken",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
