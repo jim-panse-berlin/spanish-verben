@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T08:29:24.416Z",
+  "updatedAt": "2026-10-05T08:30:27.566Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -907,8 +907,8 @@
       "back": "Wahlkampf, politische Kampagne",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -967,8 +967,8 @@
       "back": "Feuer",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1117,8 +1117,8 @@
       "back": "Synagoge",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1192,8 +1192,8 @@
       "back": "Religion",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1267,8 +1267,8 @@
       "back": "im Moment / vorerst",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1357,8 +1357,8 @@
       "back": "weltweit / welt-",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1462,8 +1462,8 @@
       "back": "es gab",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 1,
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -2332,8 +2332,8 @@
       "back": "Registrierkasse",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -2347,8 +2347,8 @@
       "back": "Einheitsgröße",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -2977,8 +2977,8 @@
       "back": "direkt; unmittelbar",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -3112,8 +3112,8 @@
       "back": "Prozent",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
