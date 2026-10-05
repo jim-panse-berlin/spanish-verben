@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:41:24.205Z",
+  "updatedAt": "2026-10-05T17:42:23.742Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -157,8 +157,8 @@
       "back": "wert sein, gelten",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-04"
+          "box": 1,
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -1372,8 +1372,8 @@
       "back": "Schaden",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-02"
+          "box": 1,
+          "due": "2026-10-05"
         },
         "dees": {
           "box": 1,
@@ -1447,8 +1447,8 @@
       "back": "still / ruhig / leise",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1582,8 +1582,8 @@
       "back": "Experte / fachkundig",
       "dirs": {
         "esde": {
-          "box": 3,
-          "due": "2026-10-03"
+          "box": 4,
+          "due": "2026-10-12"
         },
         "dees": {
           "box": 1,
@@ -1942,8 +1942,8 @@
       "back": "Sinn / Bedeutung",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-01"
+          "box": 3,
+          "due": "2026-10-09"
         },
         "dees": {
           "box": 1,
@@ -2062,8 +2062,8 @@
       "back": "krank werden",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-02"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -2257,8 +2257,8 @@
       "back": "braten / frittieren",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -2752,8 +2752,8 @@
       "back": "du machst / du sollst machen",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
@@ -2917,8 +2917,8 @@
       "back": "Staat; Zustand; Bundesstaat",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-10-05"
+          "box": 2,
+          "due": "2026-10-07"
         },
         "dees": {
           "box": 1,
