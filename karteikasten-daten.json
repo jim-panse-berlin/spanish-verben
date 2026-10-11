@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:44:36.510Z",
+  "updatedAt": "2026-10-11T09:15:46.178Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -3388,6 +3388,381 @@
         "dees": {
           "box": 1,
           "due": "2026-10-05"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpiucr",
+      "front": "regional",
+      "back": "regional",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqptcmn",
+      "front": "municipal",
+      "back": "kommunal, städtisch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqp3ljp",
+      "front": "reportaje",
+      "back": "Reportage, Bericht",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpcu3a",
+      "front": "mencionar",
+      "back": "erwähnen, nennen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpybvr",
+      "front": "tolerante",
+      "back": "tolerant",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqp8nwe",
+      "front": "oficial",
+      "back": "offiziell, Amtsträger, Offizier",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpwgle",
+      "front": "inmigración",
+      "back": "Einwanderung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpcb9n",
+      "front": "derechos",
+      "back": "Rechte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpxj7c",
+      "front": "humano",
+      "back": "menschlich, Mensch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqp99w2",
+      "front": "demócrata",
+      "back": "Demokrat(in)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqphagu",
+      "front": "debate",
+      "back": "Debatte, Diskussion",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpvw07",
+      "front": "republicano",
+      "back": "Republikaner, republikanisch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpi5fl",
+      "front": "beneficio",
+      "back": "Vorteil, Nutzen, Gewinn",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpbtlo",
+      "front": "valor",
+      "back": "Wert",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpoecl",
+      "front": "servicio",
+      "back": "Dienst, Service, Dienstleistung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqprzmc",
+      "front": "general",
+      "back": "allgemein, General",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpxjrm",
+      "front": "tercio",
+      "back": "Drittel",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqp23gh",
+      "front": "exportar",
+      "back": "exportieren",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpzxvi",
+      "front": "producción",
+      "back": "Produktion, Herstellung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpnwbg",
+      "front": "quien",
+      "back": "wer, derjenige, der",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpluab",
+      "front": "rol",
+      "back": "Rolle",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqp8wxv",
+      "front": "búsqueda",
+      "back": "Suche",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpb029",
+      "front": "dato",
+      "back": "Angabe, Information, Datenpunkt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqpdi1r",
+      "front": "contabilidad",
+      "back": "Buchhaltung, Rechnungswesen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
+        }
+      }
+    },
+    {
+      "id": "mv3lykqp5f1l",
+      "front": "dedicarse",
+      "back": "sich widmen, beruflich tätig sein",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-10-11"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-10-11"
         }
       }
     }
