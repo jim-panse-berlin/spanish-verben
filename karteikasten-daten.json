@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:02:33.110Z",
+  "updatedAt": "2026-11-27T16:03:33.039Z",
   "cards": [
     {
       "id": "mwyx2crbcqc2",
@@ -4252,8 +4252,8 @@
       "back": "Vergnügungspark",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-11-27"
+          "box": 2,
+          "due": "2026-11-29"
         },
         "dees": {
           "box": 1,
@@ -43177,8 +43177,8 @@
       "back": "Café",
       "dirs": {
         "esde": {
-          "box": 1,
-          "due": "2026-11-27"
+          "box": 2,
+          "due": "2026-11-29"
         },
         "dees": {
           "box": 1,
