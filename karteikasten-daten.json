@@ -1,4 +1,575 @@
 {
-  "updatedAt": "2026-11-27T11:45:57.424Z",
-  "cards": []
+  "updatedAt": "2026-11-27T11:47:12.025Z",
+  "cards": [
+    {
+      "id": "mwyx2crbcqc2",
+      "front": "oír",
+      "back": "hören",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crclna1",
+      "front": "lancé",
+      "back": "ich warf / startete",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc1usv",
+      "front": "crucé",
+      "back": "ich überquerte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcjlk5",
+      "front": "crucero",
+      "back": "Kreuzfahrt / Kreuzfahrtschiff",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcssyz",
+      "front": "lanzar",
+      "back": "werfen / starten / herausbringen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcwi8s",
+      "front": "jugué",
+      "back": "ich spielte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crctwdw",
+      "front": "de vacaciones",
+      "back": "im Urlaub",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crco5vf",
+      "front": "busqué",
+      "back": "ich suchte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc1jl3",
+      "front": "padrastro",
+      "back": "Stiefvater",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcrebh",
+      "front": "cuánto hace que",
+      "back": "wie lange ist es her, dass ...? / seit wann ...?",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc84vs",
+      "front": "saludar",
+      "back": "grüßen / begrüßen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcbpho",
+      "front": "década",
+      "back": "Jahrzehnt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc1yh3",
+      "front": "trompeta",
+      "back": "Trompete",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcr1mz",
+      "front": "lotería",
+      "back": "Lotterie / Lotto",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcdnzt",
+      "front": "desde que",
+      "back": "seitdem / seit (dem Zeitpunkt, an dem)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcddd9",
+      "front": "cabaña",
+      "back": "Hütte / Blockhütte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc356q",
+      "front": "extrañar",
+      "back": "vermissen / sich wundern",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc6mrl",
+      "front": "enséñame",
+      "back": "zeig mir / bring mir bei",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcrk80",
+      "front": "pregúntele",
+      "back": "fragen Sie ihn/sie",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crced63",
+      "front": "pregúnteselo",
+      "back": "fragen Sie ihn/sie danach",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcpck8",
+      "front": "dígale",
+      "back": "sagen Sie ihm/ihr",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crck6ks",
+      "front": "obligatorio",
+      "back": "verpflichtend / obligatorisch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcy6ip",
+      "front": "pídaselo",
+      "back": "bitten Sie ihn/sie darum / bestellen Sie es für ihn/sie",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcdbke",
+      "front": "apropiado",
+      "back": "angemessen / passend",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcl9zr",
+      "front": "dele",
+      "back": "geben Sie ihm/ihr",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc3wp0",
+      "front": "lea",
+      "back": "lesen Sie / er oder sie lese",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcttbe",
+      "front": "envíele",
+      "back": "schicken Sie ihm/ihr",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcrdie",
+      "front": "explicación",
+      "back": "Erklärung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc6j0f",
+      "front": "envíeselo",
+      "back": "schicken Sie es ihm/ihr",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc0n3r",
+      "front": "dile",
+      "back": "sag ihm/ihr",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc7nh2",
+      "front": "pídeselo",
+      "back": "bitte ihn/sie darum / bestell es für ihn/sie",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc1vpr",
+      "front": "pídele",
+      "back": "bitte ihn/sie / bestell bei ihm/ihr",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc7w1l",
+      "front": "dale",
+      "back": "gib ihm/ihr",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcx0yv",
+      "front": "explícame",
+      "back": "erklär mir",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcsvrw",
+      "front": "ayúdame",
+      "back": "hilf mir",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crccn80",
+      "front": "préstame",
+      "back": "leih mir",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crc213f",
+      "front": "préstamelo",
+      "back": "leih es mir",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx2crcp1ds",
+      "front": "explícamelo",
+      "back": "erklär es mir",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    }
+  ]
 }
