@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:55:07.895Z",
+  "updatedAt": "2026-11-27T11:56:17.924Z",
   "cards": [
     {
       "id": "mwyx2crbcqc2",
@@ -5525,6 +5525,3621 @@
       "id": "mwyxcjxymf96",
       "front": "religión",
       "back": "Religion",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht85mh",
+      "front": "uña",
+      "back": "Fingernagel, Zehennagel",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtb9fk",
+      "front": "suave",
+      "back": "weich, sanft, mild",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht05xh",
+      "front": "recetar",
+      "back": "verschreiben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht8koz",
+      "front": "bastón",
+      "back": "Stock, Gehstock",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtj29x",
+      "front": "lengua",
+      "back": "Zunge; Sprache",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht869y",
+      "front": "medicamento",
+      "back": "Medikament, Arzneimittel",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtx2cl",
+      "front": "acostado",
+      "back": "liegend, hingelegt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtor6l",
+      "front": "pecho",
+      "back": "Brust",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtc91t",
+      "front": "sentada",
+      "back": "sitzend",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtd3nm",
+      "front": "parado",
+      "back": "stehend; angehalten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht6nt0",
+      "front": "separado",
+      "back": "getrennt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtecwk",
+      "front": "viudo",
+      "back": "verwitwet",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtw8d5",
+      "front": "estado civil",
+      "back": "Familienstand",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht4eg0",
+      "front": "divorciado",
+      "back": "geschieden",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtqc8k",
+      "front": "documento de identidad",
+      "back": "Personalausweis, Ausweisdokument",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht4pof",
+      "front": "descubierto",
+      "back": "entdeckt; offen/unbedeckt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtj9a9",
+      "front": "descubrir",
+      "back": "entdecken",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht3okq",
+      "front": "gripe",
+      "back": "Grippe",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtsvwu",
+      "front": "hecha",
+      "back": "gemacht",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht71ln",
+      "front": "dicho",
+      "back": "gesagt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhttdfa",
+      "front": "lastimar",
+      "back": "verletzen; wehtun",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwhtmveo",
+      "front": "disponible",
+      "back": "verfügbar",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcwht62u1",
+      "front": "codo",
+      "back": "Ellenbogen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbws2u6",
+      "front": "matar",
+      "back": "töten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwlt3n",
+      "front": "casarse",
+      "back": "heiraten (sich verheiraten)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwd3pf",
+      "front": "reino",
+      "back": "Königreich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwd6mn",
+      "front": "convierto",
+      "back": "ich verwandle / ich verwandele",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwnqru",
+      "front": "muerto",
+      "back": "tot; der Tote",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwpzzx",
+      "front": "advirtió",
+      "back": "er/sie warnte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwpz8e",
+      "front": "pelear",
+      "back": "kämpfen; streiten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbws91u",
+      "front": "dragón",
+      "back": "Drache",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwjbow",
+      "front": "sintió",
+      "back": "er/sie fühlte; bemerkte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwzjf0",
+      "front": "hiervo",
+      "back": "ich koche (etwas)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwjakq",
+      "front": "valiente",
+      "back": "mutig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwxnx1",
+      "front": "hervir",
+      "back": "kochen, sieden",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwdbcx",
+      "front": "hirvió",
+      "back": "er/sie kochte; siedete",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw72ib",
+      "front": "convirtió",
+      "back": "er/sie verwandelte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw3s5u",
+      "front": "ratón",
+      "back": "Maus",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw79o9",
+      "front": "convertir",
+      "back": "verwandeln, umwandeln",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw7b6i",
+      "front": "cola",
+      "back": "Schwanz; Schlange (zum Anstehen); Cola (je nach Kontext)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwz1mo",
+      "front": "envidia",
+      "back": "Neid",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwk7df",
+      "front": "bruja",
+      "back": "Hexe",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw919j",
+      "front": "advertir",
+      "back": "warnen; bemerken",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwodpm",
+      "front": "advierto",
+      "back": "ich warne; ich bemerke",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwo6kr",
+      "front": "mentira",
+      "back": "Lüge",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw5i9z",
+      "front": "casado",
+      "back": "verheiratet",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwlkeu",
+      "front": "príncipe",
+      "back": "Prinz",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwkdrl",
+      "front": "princesa",
+      "back": "Prinzessin",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwxmzb",
+      "front": "mágico",
+      "back": "magisch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw07dh",
+      "front": "cordero",
+      "back": "Lamm",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw5w0p",
+      "front": "zumo",
+      "back": "Saft",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw1w48",
+      "front": "perrito caliente",
+      "back": "Hotdog",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwmz8l",
+      "front": "sugiero",
+      "back": "ich schlage vor",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw6p1v",
+      "front": "sugerir",
+      "back": "vorschlagen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw9klc",
+      "front": "res",
+      "back": "Rind; Rindfleisch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwpdv6",
+      "front": "de manera",
+      "back": "auf eine Weise; auf diese Art",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw0quj",
+      "front": "hervido",
+      "back": "gekocht",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw29no",
+      "front": "merluza",
+      "back": "Seehecht",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwj5zx",
+      "front": "albahaca",
+      "back": "Basilikum",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw52vu",
+      "front": "berenjena",
+      "back": "Aubergine",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwap2v",
+      "front": "lleno",
+      "back": "voll",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw9wz9",
+      "front": "caloría",
+      "back": "Kalorie",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwqcbn",
+      "front": "meriendo",
+      "back": "ich esse einen Nachmittagsimbiss / ich mache Brotzeit",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwb3cn",
+      "front": "vegetal",
+      "back": "pflanzlich; Gemüse (je nach Kontext)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw9d0s",
+      "front": "albóndiga",
+      "back": "Fleischbällchen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbws244",
+      "front": "merendar",
+      "back": "einen Nachmittagsimbiss essen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbw2c1h",
+      "front": "sano",
+      "back": "gesund",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwebt6",
+      "front": "aliño",
+      "back": "Dressing; Würzung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwbdl6",
+      "front": "grasoso",
+      "back": "fettig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdbbwfpo0",
+      "front": "menú",
+      "back": "Menü",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpah8pt3",
+      "front": "frecuente",
+      "back": "oft, regelmäßiges, oftmalig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahac1b",
+      "front": "cafecito",
+      "back": "Käffchen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpah0lpx",
+      "front": "suponer",
+      "back": "voraussehen, annehmen, ratet",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahffer",
+      "front": "palacio",
+      "back": "Palacio, Palast, Schloss",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahr3s2",
+      "front": "grandecito",
+      "back": "ziemlich groß, ziemlich großes",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpah5zc7",
+      "front": "reina",
+      "back": "Königin, königin",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahp2pr",
+      "front": "origen",
+      "back": "Herkunft, ursache, Ursprung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahrbur",
+      "front": "abuelita",
+      "back": "Oma",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahfpfj",
+      "front": "viejito",
+      "back": "Väterchen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahodou",
+      "front": "técnica",
+      "back": "Technikerin, Technik, techniken",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahrjsi",
+      "front": "mesita",
+      "back": "Tischchen, tischchen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahu550",
+      "front": "contexto",
+      "back": "Zusammenhang, Kontext, Umfeld",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahig3i",
+      "front": "artístico",
+      "back": "künstlerisch, künstlerisches, künstlerische",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahssv2",
+      "front": "cambiar",
+      "back": "Tauscht, umzutauschen, auszutauschen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpaheeqa",
+      "front": "a través de",
+      "back": "durch, Durch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahewwh",
+      "front": "rápidamente",
+      "back": "schnell, rasch, zügig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahdq2r",
+      "front": "perfectamente",
+      "back": "vollkommen, Perfekt, ausgezeichnet",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahtr87",
+      "front": "fascinar",
+      "back": "Fasziniert, faszinierst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahisat",
+      "front": "influencia",
+      "back": "Einflusses, Einfluss, einfluss",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahmn47",
+      "front": "rey",
+      "back": "König, Rey, King",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahmnqw",
+      "front": "recientemente",
+      "back": "kürzlich, Kürzlich, neulich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahtiz4",
+      "front": "simplemente",
+      "back": "einfach, bloß, nur",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahpkuo",
+      "front": "ciertos",
+      "back": "bestimmten, Bestimmte, bestimmte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxdpahwssk",
+      "front": "analizar",
+      "back": "verarbeite, betrachtest, scannt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6q06k",
+      "front": "pensar",
+      "back": "Überlege, Denken, Denke",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6xri6",
+      "front": "matricularse",
+      "back": "anmelden, immatrikulieren",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6ub0f",
+      "front": "pienso",
+      "back": "denke, überlege, (ich) denke",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6kz19",
+      "front": "costo",
+      "back": "Kosten (plural)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6c1kc",
+      "front": "beca",
+      "back": "Stipendium, stipendium",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6tbwz",
+      "front": "incluyó",
+      "back": "eingeschlossen, schloss ein",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6w80k",
+      "front": "probable",
+      "back": "wahrscheinliche, wahrscheinlich, wahrscheinliches",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6hbcj",
+      "front": "construyó",
+      "back": "baute",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6cwg4",
+      "front": "viaje",
+      "back": "Ferienreise, Trip, Fahrt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6a6y2",
+      "front": "requisito",
+      "back": "voraussetzung, anforderung, Anforderung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6pqrq",
+      "front": "importar",
+      "back": "Importieren, bedeutest, wichtig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6gqq9",
+      "front": "duda",
+      "back": "bezweifelt, Zweifel, rückfrage",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6k6my",
+      "front": "ingeniería",
+      "back": "Ingenieurwesen-Unterricht, Ingenieurstudium, Ingenieurprojekt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6azet",
+      "front": "solicitud",
+      "back": "antrags, Antrags, bewerbung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z603kh",
+      "front": "página",
+      "back": "Seite, seite",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z602sg",
+      "front": "albañil",
+      "back": "Maurer, Maurers, Maurerin",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6t7d5",
+      "front": "significar",
+      "back": "deute, bedeutest, deuten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6dcj6",
+      "front": "logro",
+      "back": "Erfolg, schaffe",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6hmqv",
+      "front": "incluir",
+      "back": "bezogen, aufzunehmen, einbeziehen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6ktis",
+      "front": "arquitectura",
+      "back": "Architektur, architektur",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6w4g9",
+      "front": "construir",
+      "back": "baue, anzufertigen, baust",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6pu2n",
+      "front": "sueño",
+      "back": "träume, Schlaf, Traums",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6hu45",
+      "front": "noticias",
+      "back": "Nachrichten, news, News",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6vkum",
+      "front": "mintió",
+      "back": "log, lied",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6kbef",
+      "front": "decisión",
+      "back": "entscheidung, Entschluss, Entscheidung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z68a9p",
+      "front": "imposible",
+      "back": "unmöglicher, Unmöglich, unmöglich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6l3xe",
+      "front": "periodismo",
+      "back": "Journalismusartikel, Journalismusunterricht, Journalismuszeitschrift",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z63sck",
+      "front": "exmujer",
+      "back": "Exfrau",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6ksa7",
+      "front": "divorciarse",
+      "back": "sich scheiden zu lassen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z61shs",
+      "front": "crisis",
+      "back": "Krise, Notlage",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z64chm",
+      "front": "leyó",
+      "back": "las",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6h2hs",
+      "front": "piloto",
+      "back": "Pilotin, pilotin, Piloten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6hjv5",
+      "front": "renunciar",
+      "back": "verzichtest, aufgeben, verzichten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6mpy9",
+      "front": "falso",
+      "back": "falsch, unecht, falscher",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6m3k2",
+      "front": "creyó",
+      "back": "glaubte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z66kha",
+      "front": "mentir",
+      "back": "Bluffst, Lügen, lügen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6m4rl",
+      "front": "fiable",
+      "back": "belastbarer, seriöses, verlässlich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6fcrj",
+      "front": "miento",
+      "back": "lüge",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6o3o4",
+      "front": "reportero",
+      "back": "Reporter, Reporters, reporter",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6391f",
+      "front": "artículo",
+      "back": "Beitrag, Artikels, Artikels (des)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6wdyu",
+      "front": "creí",
+      "back": "glaubte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6jryi",
+      "front": "economía",
+      "back": "Ökonomie, Volkswirtschaftslehre, wirtschaft",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6kbfk",
+      "front": "corrupto",
+      "back": "Korrupten, korrupt, korruptes",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z60dt3",
+      "front": "leí",
+      "back": "ich las, las",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6mpio",
+      "front": "sótano",
+      "back": "Untergeschoss, Kellergeschoss, Keller",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z65ukm",
+      "front": "cariñoso",
+      "back": "warmherziges, warmherzige, liebevolle",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6dcfj",
+      "front": "escondido",
+      "back": "Escondido, versteckt, verstecktes",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6gobk",
+      "front": "ladrar",
+      "back": "bellen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6atbf",
+      "front": "de emergencia",
+      "back": "für Notfälle",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6q6im",
+      "front": "pata",
+      "back": "Pfote, Fettnäpfchen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6wskf",
+      "front": "acostarse",
+      "back": "hinlegte, hinlegt, Hinlegen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6ckvm",
+      "front": "me acuesto",
+      "back": "lege, hingelegt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6a7t6",
+      "front": "alrededor de",
+      "back": "ums, ungefähr",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6kfa2",
+      "front": "caliente",
+      "back": "warmes, heiße, Warmes",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6r7ig",
+      "front": "bote",
+      "back": "boot, Boot",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6anft",
+      "front": "dar de comer",
+      "back": "füttern",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6qd7m",
+      "front": "roncar",
+      "back": "schnarchen, schnarchten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6k0wx",
+      "front": "quedar",
+      "back": "verabreden, Bliebe, dazustehen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z62z0q",
+      "front": "comerse",
+      "back": "auffressen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6xlg9",
+      "front": "conejo",
+      "back": "hase, Hase, Kaninchen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z655td",
+      "front": "tierno",
+      "back": "warmherzige, niedlichen, süß",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z62i1x",
+      "front": "redondo",
+      "back": "runden, runde, rund",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6px68",
+      "front": "soltero",
+      "back": "single, lediger, ledig",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6aons",
+      "front": "puse",
+      "back": "stellte, gelegt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z62l43",
+      "front": "pude",
+      "back": "konnte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6mvmj",
+      "front": "menos mal",
+      "back": "zum Glück",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z60yng",
+      "front": "equivocarse",
+      "back": "verrechnen, sich zu irren, Miss",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6pniz",
+      "front": "cárcel",
+      "back": "Gefängnis, Haftanstalt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z63ohw",
+      "front": "pedir disculpas",
+      "back": "um Entschuldigung zu bitten, um Entschuldigung bitten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6f0kz",
+      "front": "inocente",
+      "back": "unschuldiger, unschuldig, unschuldigen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6hpre",
+      "front": "creer",
+      "back": "fassen, glauben, Denke",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z66g6e",
+      "front": "arma",
+      "back": "Waffe, waffe",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6en1l",
+      "front": "suelto",
+      "back": "lasse los, lockeren",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z63bms",
+      "front": "de plata",
+      "back": "aus Silber",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6uddb",
+      "front": "joya",
+      "back": "Schmuckstück, Juwelen, Schmuck",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z69bx1",
+      "front": "bolsillo",
+      "back": "tasche, Taschengeld, Tasche",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6yiiz",
+      "front": "soltar",
+      "back": "freilassen, freigelassen, lösen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6v121",
+      "front": "de oro",
+      "back": "aus Gold",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6exx6",
+      "front": "billete",
+      "back": "Banknote, schein, Fahrkarte",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6xf18",
+      "front": "arrestar",
+      "back": "Festnehmen, verhafteten, verhaften",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z61l8l",
+      "front": "cuatrocientos",
+      "back": "vierhundert",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6hx5t",
+      "front": "joyería",
+      "back": "Juweliergeschäfts, Juweliergeschäft, Schmuckgeschäft",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6a05r",
+      "front": "testigo",
+      "back": "Zeugen, Zeugin, Zeuge",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6l558",
+      "front": "vi",
+      "back": "sah, ferngesehen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z61f2f",
+      "front": "ladrón",
+      "back": "Diebes, räuber, Dieb",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6xf3p",
+      "front": "último",
+      "back": "letztes, Letzter, letzten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6wvmw",
+      "front": "champú",
+      "back": "Shampoos, Shampoo, shampoos",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z66cpy",
+      "front": "gastar",
+      "back": "auszugeben, ausgebe, ausgeben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6gczd",
+      "front": "reseña",
+      "back": "Rezension, rezension",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6q9c7",
+      "front": "secador",
+      "back": "Föhn",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6gt3f",
+      "front": "tardar",
+      "back": "dauern, Verspäten, Verspätet",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6djy5",
+      "front": "recortar",
+      "back": "kürzte, kürzt, nachschneiden",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6g6kr",
+      "front": "detallado",
+      "back": "detaillierte, gründlichen, detaillierter",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6c85d",
+      "front": "encima",
+      "back": "über",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6hc58",
+      "front": "teñirse",
+      "back": "färbe, färben, Sich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z61767",
+      "front": "me tiño",
+      "back": "färbe mich, färben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6m9l2",
+      "front": "estar de moda",
+      "back": "modisch zu sein",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6wvgt",
+      "front": "flequillo",
+      "back": "Ponys, Pony, Stirnfransen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6b0bo",
+      "front": "peine",
+      "back": "Holzkamm, Kamm, kamm",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6wp8b",
+      "front": "liso",
+      "back": "glatt, glatter, glattes",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6ndb4",
+      "front": "volumen",
+      "back": "Umfang, Lautstärke, Ton",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6ogyk",
+      "front": "forma",
+      "back": "form, Art und Weise, Weise",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6qbpk",
+      "front": "afeitarse",
+      "back": "rasieren, Rasieren",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6m8hu",
+      "front": "corte de pelo",
+      "back": "Haarschnitt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6dewo",
+      "front": "centímetro",
+      "back": "Zentimeter, Zentimeters",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6a2q2",
+      "front": "peluquero",
+      "back": "Friseur, Friseurs",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6rufz",
+      "front": "ni siquiera",
+      "back": "nicht einmal",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6u06j",
+      "front": "sitio",
+      "back": "Ort, Platz, Lage",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6qkr5",
+      "front": "estilo",
+      "back": "stil, Stils, Stil",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6n6dm",
+      "front": "inútil",
+      "back": "unnötigem, nutzlos, nutzlosen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6pzuk",
+      "front": "céntimo",
+      "back": "Cent",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6v533",
+      "front": "chancla",
+      "back": "Sandale, Flipflop, Badelatsche",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6uz2r",
+      "front": "quitarse",
+      "back": "abnehmen, ausziehen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6rum4",
+      "front": "sudadera",
+      "back": "Sweatshirt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z662ft",
+      "front": "dorado",
+      "back": "goldener, Blond, goldfarben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z661oo",
+      "front": "en absoluto",
+      "back": "überhaupt nicht",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z67p13",
+      "front": "cupón",
+      "back": "Rabattgutschein, Gutschein, Gutscheine",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6e8or",
+      "front": "tanto",
+      "back": "sowohl, Laufenden, umso",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6fsbt",
+      "front": "ponerse",
+      "back": "tragen, cremst",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6v7d7",
+      "front": "chamarra",
+      "back": "Jacke",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6dpem",
+      "front": "reembolso",
+      "back": "Rückerstattung, Erstattung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6vbxb",
+      "front": "encargado",
+      "back": "zuständig, bestellt, zuständigen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6hlf2",
+      "front": "probarse",
+      "back": "anprobieren, Anprobieren, anzuprobieren",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z644wo",
+      "front": "sostén",
+      "back": "BH, Büstenhalter, bh",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z64qxt",
+      "front": "efectivamente",
+      "back": "tatsächlich, Tatsächlich, wirklich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6q612",
+      "front": "objeto",
+      "back": "Ding, Objekt, objekt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6inbv",
+      "front": "voto",
+      "back": "stimmzettel, Wahl, Stimme",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6ert3",
+      "front": "sociedad",
+      "back": "gesellschaft, vereins, Gesellschaft",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z64k4c",
+      "front": "elegir",
+      "back": "Aussuchen, auswählen, erwählen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z66ogu",
+      "front": "alcalde",
+      "back": "Bürgermeisters, Bürgermeister, bürgermeisters",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6v43x",
+      "front": "elijo",
+      "back": "wähle, aussuche",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z65dtw",
+      "front": "alcaldesa",
+      "back": "Bürgermeisterin, bürgermeisterin",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6ik4w",
+      "front": "tanto como",
+      "back": "genauso wie",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6ntwk",
+      "front": "candidato",
+      "back": "kandidaten, Bewerber, Kandidat",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6r9yv",
+      "front": "primer ministro",
+      "back": "Premierminister",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z67oef",
+      "front": "paz",
+      "back": "Ruhe, Friedens, frieden",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z69ubb",
+      "front": "sincero",
+      "back": "aufrichtig, authentisches, aufrichtiger",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6aeho",
+      "front": "votar",
+      "back": "abstimmen, wählt, wählen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6pgvd",
+      "front": "ministro",
+      "back": "Ministers, Premierminister, Premierministers",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z65bkr",
+      "front": "elección",
+      "back": "Kommunalwahl, Auswahl, Wahl",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6hoey",
+      "front": "partido político",
+      "back": "politische Partei",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6geay",
+      "front": "mentiroso",
+      "back": "lügenhafte, Lügner, verlogen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6l0tf",
+      "front": "gobierno",
+      "back": "regierung, Regierung, staat",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z68ju7",
+      "front": "social",
+      "back": "Soziales, soziale, soziales",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6jlr9",
+      "front": "región",
+      "back": "regionen, gegenden, Region",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z66zpu",
+      "front": "habitante",
+      "back": "Einwohner, Bürger, anwohner",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxe1z6e1ei",
+      "front": "político",
+      "back": "Politiker, politikers, politische",
       "dirs": {
         "esde": {
           "box": 1,
