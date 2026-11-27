@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:50:23.117Z",
+  "updatedAt": "2026-11-27T11:51:31.893Z",
   "cards": [
     {
       "id": "mwyx2crbcqc2",
@@ -2510,6 +2510,381 @@
       "id": "mwyx6g7f5f0y",
       "front": "comedor",
       "back": "Esszimmer, Speisesaal",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx77307zko",
+      "front": "guiar",
+      "back": "führen, leiten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7730dhxh",
+      "front": "ruina",
+      "back": "Ruine, Verfall",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7730iy01",
+      "front": "agencia",
+      "back": "Agentur, Vermittlungsstelle",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7730s19h",
+      "front": "itinerario",
+      "back": "Reiseplan, Route, Reiseverlauf",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx77304fm8",
+      "front": "estado",
+      "back": "Staat; Zustand; Bundesstaat",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7730f1xg",
+      "front": "distrito",
+      "back": "Bezirk, Distrikt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7730o01y",
+      "front": "hispanohablante",
+      "back": "spanischsprachig; Spanischsprachige/r",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx77301lmg",
+      "front": "frontera",
+      "back": "Grenze",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7731tyze",
+      "front": "directo",
+      "back": "direkt; unmittelbar",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7731zp1p",
+      "front": "llegada",
+      "back": "Ankunft",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx77313j44",
+      "front": "distancia",
+      "back": "Entfernung, Abstand, Distanz",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9w6rv3",
+      "front": "salida de emergencia",
+      "back": "Notausgang / Fluchtweg",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xwoxx",
+      "front": "desconocido",
+      "back": "unbekannt; Fremder / Unbekannter",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xttss",
+      "front": "digas",
+      "back": "du sagst / du sollst sagen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9x4fki",
+      "front": "vayas",
+      "back": "du gehst / du sollst gehen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xwt4f",
+      "front": "salgas",
+      "back": "du gehst hinaus / du verlässt",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xjpmi",
+      "front": "vengas",
+      "back": "du kommst / du sollst kommen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9x55lm",
+      "front": "galería",
+      "back": "Galerie; überdachter Gang; Einkaufszentrum",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xtvfe",
+      "front": "hagas",
+      "back": "du machst / du sollst machen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xxwzu",
+      "front": "pongas",
+      "back": "du stellst/legst; du setzt; du tust",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xs6y8",
+      "front": "frágil",
+      "back": "zerbrechlich; empfindlich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xb6k1",
+      "front": "tengas",
+      "back": "du hast / du sollst haben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xqlk5",
+      "front": "des",
+      "back": "du gibst / du sollst geben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xmipo",
+      "front": "terremoto",
+      "back": "Erdbeben",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyx7x9xwp8t",
+      "front": "tigre",
+      "back": "Tiger",
       "dirs": {
         "esde": {
           "box": 1,
