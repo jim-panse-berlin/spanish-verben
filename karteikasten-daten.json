@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:53:52.253Z",
+  "updatedAt": "2026-11-27T11:55:07.895Z",
   "cards": [
     {
       "id": "mwyx2crbcqc2",
@@ -4655,6 +4655,876 @@
       "id": "mwyxaxksgtpo",
       "front": "crimen",
       "back": "Verbrechen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdij5hn7",
+      "front": "a la semana",
+      "back": "pro Woche",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijsbll",
+      "front": "baloncesto",
+      "back": "Basketball",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijnwj7",
+      "front": "vuelta",
+      "back": "Runde; Rückkehr; Umdrehung; Tour (je nach Kontext)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdij4gqr",
+      "front": "bucear",
+      "back": "tauchen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdij7wb7",
+      "front": "meditación",
+      "back": "Meditation",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijfzmm",
+      "front": "al día",
+      "back": "pro Tag",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijrkm2",
+      "front": "terapia",
+      "back": "Therapie",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijfv73",
+      "front": "aconsejar",
+      "back": "raten, empfehlen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijl8z3",
+      "front": "vine",
+      "back": "ich kam (Vergangenheit von venir)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijwjjd",
+      "front": "senderismo",
+      "back": "Wandern",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdij6kc0",
+      "front": "gafas de sol",
+      "back": "Sonnenbrille",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijxsra",
+      "front": "toronja",
+      "back": "Grapefruit",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdij0fmy",
+      "front": "dormido",
+      "back": "eingeschlafen; schlafend (Partizip von dormir)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijlbe1",
+      "front": "hueso",
+      "back": "Knochen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijfnqi",
+      "front": "viniste",
+      "back": "du kamst (Vergangenheit von venir)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdij9v9u",
+      "front": "músculo",
+      "back": "Muskel",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijgeht",
+      "front": "hace poco",
+      "back": "vor Kurzem",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdij06v5",
+      "front": "ramo",
+      "back": "Blumenstrauß; Zweig; Bereich/Fachgebiet (je nach Kontext)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxbdijekgj",
+      "front": "caramelo",
+      "back": "Bonbon, Karamell",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kjg4w",
+      "front": "haber",
+      "back": "haben; Hilfsverb („haben\"), auch „es gibt\" (je nach Verwendung)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9k5hrs",
+      "front": "puertorriqueño",
+      "back": "puerto-ricanisch; Puerto-Ricaner/-in",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9ky95a",
+      "front": "nacional",
+      "back": "national",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9k7xtn",
+      "front": "persona mayor",
+      "back": "ältere Person",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9k5iwx",
+      "front": "América Latina",
+      "back": "Lateinamerika",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kfr50",
+      "front": "internacional",
+      "back": "international",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9k8pkb",
+      "front": "ejército",
+      "back": "Armee, Heer",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kg5ee",
+      "front": "reunirse",
+      "back": "sich treffen, sich versammeln",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kqjpi",
+      "front": "Seguridad Social",
+      "back": "Sozialversicherung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kapjz",
+      "front": "educación",
+      "back": "Bildung, Erziehung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9k401e",
+      "front": "legal",
+      "back": "legal, gesetzlich",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kdccp",
+      "front": "injusto",
+      "back": "ungerecht",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kjn43",
+      "front": "cambio",
+      "back": "Veränderung, Wechsel, Änderung",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kgwgd",
+      "front": "alcanzar",
+      "back": "erreichen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9k4d31",
+      "front": "ciudadano",
+      "back": "Bürger",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kg800",
+      "front": "ley",
+      "back": "Gesetz",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kc3dg",
+      "front": "impuesto",
+      "back": "Steuer",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9k31ix",
+      "front": "juez",
+      "back": "Richter",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kst6a",
+      "front": "opinar",
+      "back": "eine Meinung haben, seine Meinung äußern",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kcfrs",
+      "front": "campaña política",
+      "back": "Wahlkampf, politische Kampagne",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9k37q1",
+      "front": "jueza",
+      "back": "Richterin",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxby9kittw",
+      "front": "económico",
+      "back": "wirtschaftlich; ökonomisch; preiswert (je nach Kontext)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxylkbv",
+      "front": "musulmán",
+      "back": "Muslim",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxyns66",
+      "front": "fuego",
+      "back": "Feuer",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxyyaqb",
+      "front": "budista",
+      "back": "Buddhist",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxy5kyl",
+      "front": "enciendo",
+      "back": "ich zünde an / ich schalte ein",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxylve1",
+      "front": "encender",
+      "back": "anzünden, einschalten",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxy1oml",
+      "front": "cristiano",
+      "back": "Christ",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxyhqiw",
+      "front": "misa",
+      "back": "Messe (Gottesdienst)",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxy4h5e",
+      "front": "templo",
+      "back": "Tempel",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxyren6",
+      "front": "religioso",
+      "back": "religiös; Ordensmitglied",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxyqyav",
+      "front": "olor",
+      "back": "Geruch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxymao6",
+      "front": "indio",
+      "back": "Inder; indianisch/Indianer",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxyv6gt",
+      "front": "sinagoga",
+      "back": "Synagoge",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxyvzvq",
+      "front": "brasileño",
+      "back": "Brasilianer; brasilianisch",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxy8apn",
+      "front": "mezquita",
+      "back": "Moschee",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxy9y0c",
+      "front": "armar",
+      "back": "aufbauen, zusammenbauen; bewaffnen",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxyjfmu",
+      "front": "escenario",
+      "back": "Bühne; Szenario",
+      "dirs": {
+        "esde": {
+          "box": 1,
+          "due": "2026-11-27"
+        },
+        "dees": {
+          "box": 1,
+          "due": "2026-11-27"
+        }
+      }
+    },
+    {
+      "id": "mwyxcjxymf96",
+      "front": "religión",
+      "back": "Religion",
       "dirs": {
         "esde": {
           "box": 1,
