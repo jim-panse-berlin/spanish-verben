@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:41:34.178Z",
+  "updatedAt": "2026-11-27T11:41:52.453Z",
   "cards": [
     {
       "id": "msk7xyn1095v",
@@ -2708,7 +2708,7 @@
       "dirs": {
         "esde": {
           "box": 1,
-          "due": "2026-10-05"
+          "due": "2026-11-27"
         },
         "dees": {
           "box": 1,
@@ -3157,8 +3157,8 @@
       "back": "zusätzlich, zusätzliches",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-07"
+          "box": 3,
+          "due": "2026-12-01"
         },
         "dees": {
           "box": 1,
@@ -3352,8 +3352,8 @@
       "back": "gleichzeitig",
       "dirs": {
         "esde": {
-          "box": 2,
-          "due": "2026-10-07"
+          "box": 3,
+          "due": "2026-12-01"
         },
         "dees": {
           "box": 1,
